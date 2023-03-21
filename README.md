@@ -1,2 +1,2 @@
 # Seasoned-Recipies
-Online Cookbook
+Online Cookbook for organising meal planning
