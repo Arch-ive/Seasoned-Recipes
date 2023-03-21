@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smash Cake on Seasoned Recipes</title>
+    <link>/recipe/smash-cake/</link>
+    <description>Recent content in Smash Cake on Seasoned Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Mar 2023 16:23:07 +0000</lastBuildDate><atom:link href="/recipe/smash-cake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cake</title>
+      <link>/recipe/smash-cake/content/salmon/</link>
+      <pubDate>Sun, 19 Mar 2023 16:23:07 +0000</pubDate>
+      
+      <guid>/recipe/smash-cake/content/salmon/</guid>
+      <description>This is Salmon&gt; This is Salmon # </description>
+    </item>
+    
+    <item>
+      <title>Cake</title>
+      <link>/recipe/smash-cake/smash-cake/</link>
+      <pubDate>Sun, 19 Mar 2023 16:23:07 +0000</pubDate>
+      
+      <guid>/recipe/smash-cake/smash-cake/</guid>
+      <description>Eat Cake&gt; Eat Cake # </description>
+    </item>
+    
+  </channel>
+</rss>

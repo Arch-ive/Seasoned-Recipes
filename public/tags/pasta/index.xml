@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pasta on Seasoned Recipes</title>
+    <link>/tags/pasta/</link>
+    <description>Recent content in Pasta on Seasoned Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cacio e Pepe</title>
+      <link>/recipe/cacio-e-pepe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/recipe/cacio-e-pepe/</guid>
+      <description>Hand Made Pasta + Cheese and Pepper</description>
+    </item>
+    
+  </channel>
+</rss>
