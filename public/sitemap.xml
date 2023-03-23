@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>/recipe/bbq-lamb/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/bbq-lamb/</loc>
             <lastmod>2023-03-20T17:41:06+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -15,7 +15,7 @@
   
     
       <url>
-            <loc>/recipe/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/</loc>
             <lastmod>2023-03-20T17:41:06+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -26,7 +26,7 @@
   
     
       <url>
-            <loc>/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/</loc>
             <lastmod>2023-03-19T16:31:15+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -39,7 +39,7 @@
   
     
       <url>
-            <loc>/recipe/salmon/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/salmon/</loc>
             <lastmod>2023-03-19T16:23:07+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -48,7 +48,7 @@
   
     
       <url>
-            <loc>/recipe/smash-cake/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/smash-cake/</loc>
             <lastmod>2023-03-19T16:23:07+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -59,7 +59,7 @@
   
     
       <url>
-            <loc>/recipe/butter-chicken/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/butter-chicken/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -67,21 +67,7 @@
   
     
       <url>
-            <loc>/recipe/cacio-e-pepe/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>/recipe/guac/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/cacio-e-pepe/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -94,18 +80,8 @@
     
   
     
-  
-    
       <url>
-            <loc>/recipe/pulled-pork-tacos/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/recipe/salsa/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/guac/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -114,8 +90,22 @@
     
   
     
+  
+    
+  
+    
+  
+    
       <url>
-            <loc>/recipe/steak/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/pulled-pork-tacos/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/salsa/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -125,7 +115,17 @@
   
     
       <url>
-            <loc>/recipe/vege-chili/</loc>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/steak/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/vege-chili/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>

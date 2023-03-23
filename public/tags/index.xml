@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Seasoned Recipes</title>
-    <link>/tags/</link>
+    <link>https://arch-ive.github.io/Seasoned-Recipes/tags/</link>
     <description>Recent content in Tags on Seasoned Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lamb</title>
-      <link>/tags/lamb/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/tags/lamb/</link>
       <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
       
-      <guid>/tags/lamb/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/tags/lamb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dessert</title>
-      <link>/tags/dessert/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/tags/dessert/</link>
       <pubDate>Sun, 19 Mar 2023 16:23:07 +0000</pubDate>
       
-      <guid>/tags/dessert/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/tags/dessert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fish</title>
-      <link>/tags/fish/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/tags/fish/</link>
       <pubDate>Sun, 19 Mar 2023 16:23:07 +0000</pubDate>
       
-      <guid>/tags/fish/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/tags/fish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beef</title>
-      <link>/tags/beef/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/tags/beef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/beef/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/tags/beef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chicken</title>
-      <link>/tags/chicken/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/tags/chicken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/chicken/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/tags/chicken/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pasta</title>
-      <link>/tags/pasta/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/tags/pasta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pasta/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/tags/pasta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pork</title>
-      <link>/tags/pork/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/tags/pork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pork/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/tags/pork/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vege</title>
-      <link>/tags/vege/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/tags/vege/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/vege/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/tags/vege/</guid>
       <description></description>
     </item>
     

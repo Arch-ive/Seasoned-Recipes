@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pasta on Seasoned Recipes</title>
-    <link>/tags/pasta/</link>
+    <link>https://arch-ive.github.io/Seasoned-Recipes/tags/pasta/</link>
     <description>Recent content in Pasta on Seasoned Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cacio e Pepe</title>
-      <link>/recipe/cacio-e-pepe/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/cacio-e-pepe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/recipe/cacio-e-pepe/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/cacio-e-pepe/</guid>
       <description>Hand Made Pasta + Cheese and Pepper</description>
     </item>
     
