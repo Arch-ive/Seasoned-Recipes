@@ -21,9 +21,8 @@ buildFuture = false
   anchor = 'Center'
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  cuisine = "cuisines" 
+  hero = "heros"
+  recipe = "recipes"
 
 [sitemap]
   changefreq = 'daily'

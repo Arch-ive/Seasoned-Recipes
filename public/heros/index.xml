@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heros on Seasoned Recipes</title>
+    <link>https://arch-ive.github.io/Seasoned-Recipes/heros/</link>
+    <description>Recent content in Heros on Seasoned Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/heros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lamb</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/heros/lamb/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/heros/lamb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fish</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/heros/fish/</link>
+      <pubDate>Sun, 19 Mar 2023 16:23:07 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/heros/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beef</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/heros/beef/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/heros/beef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chicken</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/heros/chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/heros/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pasta</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/heros/pasta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/heros/pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pork</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/heros/pork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/heros/pork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vege</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/heros/vege/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/heros/vege/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,83 +11,61 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "All Recipes"
-  pageRef = "recipe"
+  name = "Everything"
+  pageRef = "recipes/all"
+  weight = 10
+
+[[main]]
+  name = "Main Meals"
+  pageRef = "recipe/main"
   weight = 10
 
 [[main]]
   name = "Chicken"
-  parent = "Main Ingredient"
-  pageRef = "tags/Chicken"
+  parent = "Hero Ingredient"
+  pageRef = "heros/Chicken"
   weight = 20
 
 [[main]]
   name = "Beef"
-  parent = "Main Ingredient"
-  pageRef = "tags/Beef"
+  parent = "Hero Ingredient"
+  pageRef = "heros/Beef"
   weight = 20
 
 [[main]]
   name = "Lamb"
-  parent = "Main Ingredient"
-  pageRef = "tags/Lamb"
+  parent = "Hero Ingredient"
+  pageRef = "heros/Lamb"
   weight = 20
 
 [[main]]
   name = "Pork"
-  parent = "Main Ingredient"
-  pageRef = "tags/Pork"
+  parent = "Hero Ingredient"
+  pageRef = "heros/Pork"
   weight = 20
 
 [[main]]
   name = "Fish"
-  parent = "Main Ingredient"
-  pageRef = "tags/Fish"
+  parent = "Hero Ingredient"
+  pageRef = "heros/Fish"
   weight = 20
 
 [[main]]
   name = "Pasta"
-  parent = "Main Ingredient"
-  pageRef = "tags/Pasta"
+  parent = "Hero Ingredient"
+  pageRef = "heros/Pasta"
   weight = 20
 
 [[main]]
   name = "Vege"
-  parent = "Main Ingredient"
-  pageRef = "tags/Vege"
+  parent = "Hero Ingredient"
+  pageRef = "heros/Vege"
   weight = 20
 
 [[main]]
-  name = "Dessert"
-  parent = "Main Ingredient"
-  pageRef = "tags/Dessert"
+  name = "Sweet"
+  pageRef = "recipe/sweet"
   weight = 20
-
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 20
-
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
-
-[[main]]
-  name = "Cuisine"
-  pageRef = "cuisines"
-  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
 
 #[[subnavigation]]
 #  name = "My Awesome Category"

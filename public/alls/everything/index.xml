@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>everything on Seasoned Recipes</title>
+    <link>https://arch-ive.github.io/Seasoned-Recipes/alls/everything/</link>
+    <description>Recent content in everything on Seasoned Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/alls/everything/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Butter Chicken</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/butter-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/butter-chicken/</guid>
+      <description>Introduction&gt; Introduction # This is bold text, and this is emphasized text.</description>
+    </item>
+    
+  </channel>
+</rss>
