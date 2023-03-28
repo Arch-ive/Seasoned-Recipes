@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Green Curry on Seasoned Recipes</title>
+    <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/</link>
+    <description>Recent content in Green Curry on Seasoned Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green Curry Paste</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/paste/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/paste/</guid>
+      <description>Toast and grind spices and corriander with green chilli and oil</description>
+    </item>
+    
+  </channel>
+</rss>

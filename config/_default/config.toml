@@ -23,6 +23,8 @@ buildFuture = false
 [taxonomies]
   hero = "heros"
   recipe = "recipes"
+  season = "seasons"
+  
 
 [sitemap]
   changefreq = 'daily'

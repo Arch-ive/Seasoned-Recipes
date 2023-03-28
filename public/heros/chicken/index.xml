@@ -5,17 +5,7 @@
     <link>https://arch-ive.github.io/Seasoned-Recipes/heros/chicken/</link>
     <description>Recent content in Chicken on Seasoned Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/heros/chicken/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Green Curry</title>
-      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green-curry/</link>
-      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
-      
-      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green-curry/</guid>
-      <description>Cook paste and chuck in coconut milk and some veg.</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/heros/chicken/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Butter Chicken</title>
       <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/butter-chicken/</link>
@@ -32,6 +22,15 @@
       
       <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/butter-chicken/butter-chicken-chicken/</guid>
       <description>Marinaded Chicken Thigh&gt; Marinaded Chicken Thigh # Cumin &amp;amp; Yoghurt w/ lemon &amp;amp; a beer</description>
+    </item>
+    
+    <item>
+      <title>Duck Red Curry</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/duck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/duck/</guid>
+      <description>This one quacks&gt; This one quacks # Duck is a hero of a chicken right</description>
     </item>
     
   </channel>

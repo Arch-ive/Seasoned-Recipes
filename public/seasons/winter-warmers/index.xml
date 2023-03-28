@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winter Warmers on Seasoned Recipes</title>
+    <link>https://arch-ive.github.io/Seasoned-Recipes/seasons/winter-warmers/</link>
+    <description>Recent content in Winter Warmers on Seasoned Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/seasons/winter-warmers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green Curry</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/</guid>
+      <description>Grab some Green Curry Paste</description>
+    </item>
+    
+    <item>
+      <title>Butter Chicken</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/butter-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/butter-chicken/</guid>
+      <description>Make a butter chicken chicken and butter chicken sauce</description>
+    </item>
+    
+    <item>
+      <title>Red Curries</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/</guid>
+      <description>Make a Duck or Vege curry from the paste you made already</description>
+    </item>
+    
+  </channel>
+</rss>

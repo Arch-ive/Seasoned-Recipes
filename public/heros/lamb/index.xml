@@ -16,5 +16,14 @@
       <description>Buy BBQ</description>
     </item>
     
+    <item>
+      <title>Lamb Wraps</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/lamb-wraps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/lamb-wraps/</guid>
+      <description>BBQ some lamb seasoned with herbs and wrap it up with veg and top with a lemony tzatziki</description>
+    </item>
+    
   </channel>
 </rss>

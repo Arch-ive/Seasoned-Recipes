@@ -13,59 +13,64 @@
 [[main]]
   name = "Everything"
   pageRef = "recipes/all"
-  weight = 10
+  weight = 1
+
+[[main]]
+  name = "Seasons"
+  pageRef = "seasons/"
+  weight = 3
 
 [[main]]
   name = "Main Meals"
   pageRef = "recipe/main"
-  weight = 10
+  weight = 2
 
 [[main]]
   name = "Chicken"
   parent = "Hero Ingredient"
   pageRef = "heros/Chicken"
-  weight = 20
+  weight = 5
 
 [[main]]
   name = "Beef"
   parent = "Hero Ingredient"
   pageRef = "heros/Beef"
-  weight = 20
+  weight = 6
 
 [[main]]
   name = "Lamb"
   parent = "Hero Ingredient"
   pageRef = "heros/Lamb"
-  weight = 20
+  weight = 7
 
 [[main]]
   name = "Pork"
   parent = "Hero Ingredient"
   pageRef = "heros/Pork"
-  weight = 20
+  weight = 8
 
 [[main]]
   name = "Fish"
   parent = "Hero Ingredient"
   pageRef = "heros/Fish"
-  weight = 20
+  weight = 9
 
 [[main]]
   name = "Pasta"
   parent = "Hero Ingredient"
   pageRef = "heros/Pasta"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Vege"
   parent = "Hero Ingredient"
   pageRef = "heros/Vege"
-  weight = 20
+  weight = 11
 
 [[main]]
   name = "Sweet"
   pageRef = "recipe/sweet"
-  weight = 20
+  weight = 4
 
 #[[subnavigation]]
 #  name = "My Awesome Category"

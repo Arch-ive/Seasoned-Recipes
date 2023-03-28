@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/recipes/all/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Andy&#39;s Steak Tacos</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/andys-steak-tacos/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/andys-steak-tacos/</guid>
+      <description>Andy from MasterChef&amp;rsquo;s steak taco recipe goes here</description>
+    </item>
+    
+    <item>
       <title>BBQ Lamb</title>
       <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/bbq-lamb/</link>
       <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
@@ -18,11 +27,20 @@
     
     <item>
       <title>Green Curry</title>
-      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green-curry/</link>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/</link>
       <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
       
-      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green-curry/</guid>
-      <description>Cook paste and chuck in coconut milk and some veg.</description>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/</guid>
+      <description>Grab some Green Curry Paste</description>
+    </item>
+    
+    <item>
+      <title>Green Curry Paste</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/paste/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/paste/</guid>
+      <description>Toast and grind spices and corriander with green chilli and oil</description>
     </item>
     
     <item>
@@ -80,6 +98,15 @@
     </item>
     
     <item>
+      <title>Duck Red Curry</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/duck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/duck/</guid>
+      <description>This one quacks&gt; This one quacks # Duck is a hero of a chicken right</description>
+    </item>
+    
+    <item>
       <title>Guac</title>
       <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/side/guac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -89,12 +116,39 @@
     </item>
     
     <item>
+      <title>Lamb Wraps</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/lamb-wraps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/lamb-wraps/</guid>
+      <description>BBQ some lamb seasoned with herbs and wrap it up with veg and top with a lemony tzatziki</description>
+    </item>
+    
+    <item>
       <title>Pulled Pork Tacos</title>
       <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/pulled-pork-tacos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/pulled-pork-tacos/</guid>
       <description>Slow Cooked Pork in soft wraps</description>
+    </item>
+    
+    <item>
+      <title>Red Curries</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/</guid>
+      <description>Make a Duck or Vege curry from the paste you made already</description>
+    </item>
+    
+    <item>
+      <title>Red Curry Paste</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/paste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/paste/</guid>
+      <description>Red Curry Paste&gt; Red Curry Paste # Lots of herbs, spices and red chili all smashed up</description>
     </item>
     
     <item>
@@ -122,6 +176,15 @@
       
       <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/vege-chili/</guid>
       <description>Vege Chili&gt; Vege Chili # Make a salsa to go with</description>
+    </item>
+    
+    <item>
+      <title>Vege Red Curry</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/vege/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/vege/</guid>
+      <description>Vegetarian Red Curry&gt; Vegetarian Red Curry # Veg/Rice/Sauce = taste</description>
     </item>
     
   </channel>

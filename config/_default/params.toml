@@ -88,7 +88,7 @@ smartTOCHideUnfocusedChildren = true
   constrainItemsWidth = false
 
 [sitemap]
-  excludedKinds = ["taxonomy","term"]
+  # excludedKinds = ["taxonomy","term"]
 
 [taxonomy]
   showTermCount = true
