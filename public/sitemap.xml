@@ -230,6 +230,8 @@
     
   
     
+  
+    
       <url>
             <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/vege-chili/</loc>
             <changefreq>daily</changefreq>
@@ -240,6 +242,14 @@
     
       <url>
             <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/vege/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/viet-salad/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
