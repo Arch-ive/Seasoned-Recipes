@@ -36,7 +36,7 @@ Skip to Instructions
 | Red Onion | 1/4 |
 | Ginger | 1 tsp |
 | Lime | 1/2 |
-| Salt and Pepper | To taste |
+| Salt | To taste |
 | Olive Oil | A dash to bind |
 
 ### Burnt Jalapeno & Tomatillo Avocado Cream
@@ -47,7 +47,7 @@ Skip to Instructions
 | Jalapeno | 1/2 |
 | Tomatillo | 2-3 |
 | Tomatillo Brine | ~25ml |
-| Coriander Roots | 4 |
+| Coriander Roots | 3-4 |
 | Garlic | 1 Clove |
 | Lime | 1 Zest & Juice |
 | Salt & Pepper | To taste |
@@ -68,15 +68,15 @@ Skip to Instructions
 
 - Mix the steak marinade up and coat the steak. Leave it on its own dedicated plate as we're going to toss the cooked cut steak in the remaining marinade.
 
-- Prepare the corriander roots, peel and deseed the avocado, peel the garlic, get a few tomatillos + brine & zest and juice the lime all going into the large nutrabullet canister. Crack in some Salt and Pepper to taste. Leave aside for when the 1/2 burned Jalapeno once it's cooled, deseeded and the bitter black skin has been discarded.
+- Prepare the corriander roots, peel and deseed the avocado, peel the garlic, get a few tomatillos + brine & zest and juice the lime all going into the large nutrabullet canister. Crack in some Salt and Pepper to taste. Leave aside for when the 1/2 burned Jalapeno once it's cooled.
 
-- Strip and put the corn on the BBQ along with the capcicum, turn the BBQ to medium high heat, turning occasionally. We want some char on these.
+- Strip and put the corn on the BBQ along with the capcicum and turn down the BBQ to medium high heat; turn the veg occasionally. We want some char on these.
 
-- Fine dice the Red Onion, juice the lime and add salt, ginger, red chili and olive oil. Set aside in a bowl for the corn and capcicum later.
+- Fine dice the red onion and add salt, ginger, red chili, olive oil and the juice from the 1/2 lime. Set aside in a bowl for the corn and capcicum later.
 
 - When the corn is about half way done. Put the steak on the BBQ turning once. Medium rare.
 
-- Take everything off the BBQ turing it down to low (for the toasting the tortillas) and let the steak rest while you cut up the corn and capciccum for the salsa. Add the Jalapeno to the Avocado Cream and blitz adding more lime/seasoning if needed.
+- Take everything off the BBQ turing it down to low (for the toasting the tortillas) and let the steak rest while you cut up the corn and capciccum for the salsa. Scrape the bitter black skin off the Jalapeno and deseed, adding it to the Avocado Cream ingridents and blitz all together. Taste it, add more lime/seasoning if needed.
 
 - Cut up the steak into thin slices and toss through the remaining marinade and toast tortillas on the BBQ lid down topped with tasty cheese.
 
