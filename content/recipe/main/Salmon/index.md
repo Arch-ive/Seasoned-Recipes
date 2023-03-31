@@ -6,4 +6,4 @@ heros: ["Fish"]
 recipes: ["All"]
 ---
 
-FUUUUSH
+FUUUUSH + Blackend Salmon and Terri and fennel side

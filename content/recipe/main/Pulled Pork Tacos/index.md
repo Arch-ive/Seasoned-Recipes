@@ -5,4 +5,4 @@ heros: ["Pork"]
 recipes: ["All"]
 ---
 
-Slow Cooked Pork in soft wraps
+[Slow Cooked Pork]({{< ref "recipe/base/Pulled Pork" >}}) in soft wraps

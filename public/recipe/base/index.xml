@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Base Recipes on Seasoned Recipes</title>
+    <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/</link>
+    <description>Recent content in Base Recipes on Seasoned Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/recipe/base/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beef Ragu</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/beef-ragu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/beef-ragu/</guid>
+      <description>Beef Ragu&gt; Beef Ragu # Ingredient Beef Brisket 1.</description>
+    </item>
+    
+    <item>
+      <title>Fresh Pasta</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/fresh-pasta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/fresh-pasta/</guid>
+      <description>Fresh Pasta&gt; Fresh Pasta # Ingredient Flour 90g 00 &amp;amp; 10g Semolina Egg 1 Salt 5g Water Splash These ratios are per person.</description>
+    </item>
+    
+    <item>
+      <title>Pesto</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/pesto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/pesto/</guid>
+      <description>Pesto&gt; Pesto # Ingredient Basil 11/2 Cups Parmisan Cheese 1/2 Cup Pine Nuts 1/4 Cup Olive Oil To losen Mix all up in a blender or if you have time, mortar and pestle.</description>
+    </item>
+    
+    <item>
+      <title>Pulled Beef Brisket</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/pulled-beef-brisket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/pulled-beef-brisket/</guid>
+      <description>Slow Cooked Beef&gt; Slow Cooked Beef # Ingredient Beef Brisket 1.</description>
+    </item>
+    
+    <item>
+      <title>Pulled Pork</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/pulled-pork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/pulled-pork/</guid>
+      <description>Pulled Pork&gt; Pulled Pork # Ingredient Pork Belly 1.</description>
+    </item>
+    
+  </channel>
+</rss>
