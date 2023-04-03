@@ -7,4 +7,4 @@ draft: true
 
 Welcome to your online cook book. It contains all the [recipes]({{< ref "recipe" >}}) you use every day.
 
-Use the search function to find a specific recipe; use the drop down menu or tags to find one that fits; or use of a main ingredient or hit All Recipies to browse.
+Use the drop down menu to find a dish with a hero ingredient, browse main meals, something sweet or hit Everything to see it all in one place.

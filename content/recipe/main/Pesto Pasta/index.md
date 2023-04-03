@@ -6,3 +6,5 @@ recipes: ["All"]
 ---
 
 Make [Pesto]({{< ref "recipe/base/pesto" >}}). Add Pasta.
+
+Optional: Chorizo

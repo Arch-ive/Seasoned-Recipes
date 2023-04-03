@@ -5,7 +5,26 @@
     <link>https://arch-ive.github.io/Seasoned-Recipes/heros/vege/</link>
     <description>Recent content in Vege on Seasoned Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/heros/vege/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/heros/vege/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carrot &amp; Ginger Soup</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/carrot-ginger-soup/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/carrot-ginger-soup/</guid>
+      <description>Carrots and ginger</description>
+    </item>
+    
+    <item>
+      <title>Romesco</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/romesco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/romesco/</guid>
+      <description>Burn capcicums.</description>
+    </item>
+    
     <item>
       <title>Vege Chili</title>
       <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/vege-chili/</link>

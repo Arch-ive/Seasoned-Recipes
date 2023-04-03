@@ -17,11 +17,20 @@
     </item>
     
     <item>
-      <title>Lamb Wraps</title>
-      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/lamb-wraps/</link>
+      <title>Crumbed Cutlets</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/crumbed-cutlets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/lamb-wraps/</guid>
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/crumbed-cutlets/</guid>
+      <description>Crumb em and shallow fry &amp;rsquo;em till golden</description>
+    </item>
+    
+    <item>
+      <title>Greek Lamb Wraps</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/greek-lamb-wraps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/greek-lamb-wraps/</guid>
       <description>BBQ some lamb seasoned with herbs and wrap it up with veg and top with a lemony tzatziki</description>
     </item>
     
@@ -32,6 +41,24 @@
       
       <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/massaman-lamb-shanks/</guid>
       <description>Get Shanks and apply paste and time&gt; Get Shanks and apply paste and time # </description>
+    </item>
+    
+    <item>
+      <title>Mels Lamb Shank Stew</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/mels-lamb-shanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/mels-lamb-shanks/</guid>
+      <description>Lamb w/ mashed potato</description>
+    </item>
+    
+    <item>
+      <title>Valentine&#39;s Day Lamb Rack</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/valentines-day-lamb-rack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/valentines-day-lamb-rack/</guid>
+      <description>Buy a good quality rack of lamb.</description>
     </item>
     
   </channel>

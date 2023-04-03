@@ -8,7 +8,25 @@
     <language>en</language>
     <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="https://arch-ive.github.io/Seasoned-Recipes/seasons/winter-warmers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Crsipy Pork Belly</title>
+      <title>Beef &amp; Guinness Pie</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/beef-guinness-pie/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/beef-guinness-pie/</guid>
+      <description>Beef &amp;amp; Beer</description>
+    </item>
+    
+    <item>
+      <title>Beef Cheek Bourguignon</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/beef-cheek-bourguignon/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/beef-cheek-bourguignon/</guid>
+      <description>Slow cooked beef</description>
+    </item>
+    
+    <item>
+      <title>Crispy Pork Belly</title>
       <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/crispy-pork-belly/</link>
       <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
       
@@ -23,6 +41,51 @@
       
       <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/green/</guid>
       <description>Grab some Green Curry Paste</description>
+    </item>
+    
+    <item>
+      <title>Mushroom Risotto</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/risotto/mushroom/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/risotto/mushroom/</guid>
+      <description>Mushroom risotto</description>
+    </item>
+    
+    <item>
+      <title>Ossobuco Risotto</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/risotto/ossobuco-milanese/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/risotto/ossobuco-milanese/</guid>
+      <description>Ossobuco risotto</description>
+    </item>
+    
+    <item>
+      <title>Prawn Tomato &amp; Fennel Risotto</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/risotto/prawn-tomato-fennel/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/risotto/prawn-tomato-fennel/</guid>
+      <description>Prawn Tomato &amp;amp; Fennel risotto</description>
+    </item>
+    
+    <item>
+      <title>Pumpkin Tomato &amp; Fennel Risotto</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/risotto/pumpkin-tomato-fennel/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/risotto/pumpkin-tomato-fennel/</guid>
+      <description>Pumpkin Tomato &amp;amp; Fennel risotto</description>
+    </item>
+    
+    <item>
+      <title>Shepards Pie</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/shepards-pie/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/shepards-pie/</guid>
+      <description>Meat n potatos</description>
     </item>
     
     <item>

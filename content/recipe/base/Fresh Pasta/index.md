@@ -1,25 +1,24 @@
 ---
 title: "Fresh Pasta"
-draft: true
 recipes: ["All"]
 ---
 
-### Fresh Pasta
+### Egg Pasta Dough
 
-| Ingredient |  |
+| Ingredient | Amount |
 | ----- | ----- |
 | Flour |  90g 00 & 10g Semolina|
 | Egg |  1 |
-| Salt |  5g |
+| Salt |  2g |
 | Water | Splash |
 
 >These ratios are per person. Double it for two people and so on.
 
 ### Method
 
-- Add salt into a mixing bowl and then the flour. Make a well in the centre and crack in the egg and add a splash of water.
+- Add salt into a mixing bowl and then the flour. Make a well in the centre; crack in the egg(s) and add an ammount of water. Mix to bring it together.
 
-- Kneed to combine, adding more flour as you go so it doesn't stick to the bench or more water if it's not soft enough. Continue to kneed for 5mins to develop the gluten.
+- Turn the mixture out onto the bench and kneed to combine adding more flour as you go so it doesn't stick to the bench or more water if it's not smooth enough. Continue to kneed for 5mins to develop the gluten.
 
-- The pasta dough will be smooth and spring back when you poke it. Dust with flour and wrap in glad wrap to rest.
+- Form the dough into a ball, it should be smooth and spring back when you poke it. Dust with flour and wrap in glad wrap to rest.
 

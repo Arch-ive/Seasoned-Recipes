@@ -21,7 +21,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/fresh-pasta/</guid>
-      <description>Fresh Pasta&gt; Fresh Pasta # Ingredient Flour 90g 00 &amp;amp; 10g Semolina Egg 1 Salt 5g Water Splash These ratios are per person.</description>
+      <description>Egg Pasta Dough&gt; Egg Pasta Dough # Ingredient Amount Flour 90g 00 &amp;amp; 10g Semolina Egg 1 Salt 2g Water Splash These ratios are per person.</description>
+    </item>
+    
+    <item>
+      <title>Nonna Sauce</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/nonna-sauce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/nonna-sauce/</guid>
+      <description>Tomato, onion, celery, bay leaf</description>
+    </item>
+    
+    <item>
+      <title>Perfect For Chicken</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/perfect-for-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/perfect-for-chicken/</guid>
+      <description>Perfect For Chicken&gt; Perfect For Chicken # Ingredient Spices x </description>
     </item>
     
     <item>
@@ -49,6 +67,15 @@
       
       <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/pulled-pork/</guid>
       <description>Pulled Pork&gt; Pulled Pork # Ingredient Pork Belly 1.</description>
+    </item>
+    
+    <item>
+      <title>Romesco</title>
+      <link>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/romesco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/romesco/</guid>
+      <description>Burn capcicums.</description>
     </item>
     
   </channel>
