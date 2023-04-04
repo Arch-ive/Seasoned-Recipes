@@ -581,6 +581,14 @@
   
     
       <url>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/side/mums-gravy/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/nonna-sauce/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
