@@ -34,7 +34,7 @@ Heat a cast iron skillet on the BBQ and add a thin layer of butter to coat the p
 
 >perhaps make a garlic butter rather than adding them seperately to the mushrooms.
 
-{{< carousel images="{gallery/11.jpg,gallery/12.jpg,gallery/13.jpg,gallery/14.jpg,gallery/15.jpg}" interval="{10000}" >}}
+{{< carousel images="{gallery/11.jpg,gallery/12.jpg,gallery/13.jpg,gallery/14.jpg}" interval="{10000}" >}}
 <br/>
 While the mushrooms and tomatoes cook down prepare the avocado. Scoop out the flesh and use a fork to smash it up, season with salt and pepper and add a squeeze of lemon.
 
