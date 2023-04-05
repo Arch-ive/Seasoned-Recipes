@@ -54,4 +54,4 @@ Salt and pepper on the eggs to finish. Serve up and enjoy.
     caption="Aussie Smashfest"
     >}}
 
->Pro Tip: The eggs will overcook if you leave them in the pan for too long
+>Pro Tip: The cast iron pan will keep the meal hot but you risk overcooking the eggs if you leave them in there for too long
