@@ -34,18 +34,18 @@ Heat a cast iron skillet on the BBQ and add a thin layer of butter to coat the p
 
 >perhaps make a garlic butter rather than adding them seperately to the mushrooms.
 
-{{< carousel images="{gallery/11.jpg,gallery/12.jpg,gallery/13.jpg,gallery/14.jpg,gallery/15.jpg}" interval="15000" >}}
-
+{{< carousel images="{gallery/11.jpg,gallery/12.jpg,gallery/13.jpg,gallery/14.jpg,gallery/15.jpg}" interval="{10000}" >}}
+<br/>
 While the mushrooms and tomatoes cook down prepare the avocado. Scoop out the flesh and use a fork to smash it up, season with salt and pepper and add a squeeze of lemon.
 
-{{< carousel images="{gallery/03.jpg,gallery/01.jpg,gallery/02.jpg}" interval="15000" >}}
-
+{{< carousel images="{gallery/03.jpg,gallery/01.jpg,gallery/02.jpg}" interval="{10000}" >}}
+<br/>
 Add bacon and let it cook for a while rotating the pieces around to coat them the fat that has rendered out into the pan. Once the bacon is almost there, drizzle olive oil on the sourdough and place on the grill and toss the spinich into the mushrooms.
 
 Baked beans go in and then crack the eggs in last. Let them cook for a few minutes.
 
-{{< carousel images="{gallery/21.jpg,gallery/22.jpg,gallery/23.jpg}" interval="15000" >}}
-
+{{< carousel images="{gallery/21.jpg,gallery/22.jpg,gallery/23.jpg}" aspectRatio="16-9" interval="{10000}" >}}
+<br/>
 Salt and pepper on the eggs to finish. Serve up and enjoy.
 
 {{< figure
@@ -55,4 +55,3 @@ Salt and pepper on the eggs to finish. Serve up and enjoy.
     >}}
 
 >Pro Tip: The eggs will overcook if you leave them in the pan for too long
-
