@@ -696,6 +696,14 @@
   
     
       <url>
+            <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/main/curry/red/paste-v.2/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://arch-ive.github.io/Seasoned-Recipes/recipe/base/romesco/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
