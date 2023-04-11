@@ -34,9 +34,8 @@ Skip to Method
 ### Toast & Grind - Whole Spices
 
 Put your black peppercorns, corriander seeds and cumin seeds in a hot dry pan and toast for a few minutes. Put them directly into the mortar and pestle and grind into a powder and set aside.
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 {{< carousel images="{gallery/spice1.jpg,gallery/spice2.jpg,gallery/spice3.jpg,gallery/spice4.jpg,gallery/spice5.jpg,gallery/spice6.jpg}" >}}
-<br><br><br>
 
 ### Cut & Pound - Wet Aromatics
 
