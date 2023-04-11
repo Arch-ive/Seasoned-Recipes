@@ -20,12 +20,6 @@ jobs:
         uses: actions/setup-node@v3
       - run: npm install
       - run: npm run assets
-      - name: Commit and push Chart.js changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          branch: "${{ github.head_ref }}"
-          file_pattern: "assets/lib/chart/*"
-          commit_message: "📦 Update packaged ChartJS"
       - name: Commit Fuse changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
