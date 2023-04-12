@@ -52,7 +52,7 @@ jobs:
       - name: Build assets and css
         uses: actions/setup-node@v3
       - run: npm run assets
-      - run: npm run build
+      - run: npm run gh-page-compile
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
