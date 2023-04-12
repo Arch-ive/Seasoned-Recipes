@@ -32,14 +32,20 @@ jobs:
     env:
       HUGO_VERSION: 0.111.3
     steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
         uses: actions/checkout@v3
         with:
           submodules: recursive
+          ref: "${{ github.head_ref }}"
+      - name: Install dependencies and Build Theme
+        uses: actions/setup-node@v3
+      - run: npm install
+      - run: npm run assets
+      - run: npm run gh-page-compile
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
