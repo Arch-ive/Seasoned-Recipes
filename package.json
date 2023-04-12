@@ -1,14 +1,18 @@
 {
-  "name": "Code Runners",
+  "name": "Scripts & Package Info",
   "version": "1.0.0",
-  "description": "For running scripts",
+  "description": "To incorporate tailwind and run scripts",
   "scripts": {
     "assets": "rimraf assets/vendor && vendor-copy",
     "server": "hugo server -b http://localhost -p 8000",
     "dev": "NODE_ENV=development ./themes/blowfish/node_modules/tailwindcss/lib/cli.js -c ./themes/blowfish/tailwind.config.js -i ./themes/blowfish/assets/css/main.css -o ./assets/css/compiled/main.css --jit -w",
     "build": "NODE_ENV=production ./themes/blowfish/node_modules/tailwindcss/lib/cli.js -c ./themes/blowfish/tailwind.config.js -i ./themes/blowfish/assets/css/main.css -o ./assets/css/compiled/main.css --jit"
-   },
-  "homepage": "https://github.com/nunocoracao/blowfish#readme",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arch-ive/Seasoned-Recipes.git"
+  },
+  "homepage": "https://github.com/Arch-ive/Seasoned-Recipes",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
     "chart.js": "^4.2.1",
