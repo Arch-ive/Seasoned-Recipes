@@ -33,7 +33,7 @@ jobs:
       contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
-    steps:
+    Build & Deploy:
       - uses: actions/checkout@v3
 
       - name: Setup Node
@@ -54,12 +54,11 @@ jobs:
           path: ./public
 
   # Deployment job
-  deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    steps:
+    deploy:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
