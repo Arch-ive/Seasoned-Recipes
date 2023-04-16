@@ -27,20 +27,29 @@ defaults:
     shell: bash
 
 jobs:
+  # Build job
   build:
-    runs-on: ubuntu-22.04
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.111.3
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
-          node-version: '14'
-
+          submodules: recursive
+          fetch-depth: 0
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Install Dart Sass Embedded
+        run: sudo snap install dart-sass-embedded
+      - name: Install dependencies and Build Theme
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Build assets and css
+        uses: actions/setup-node@v3
+      - run: npm run assets
+      - run: npm run gh-page-compile
       - name: Cache dependencies
         uses: actions/cache@v3
         with:
@@ -48,10 +57,23 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
+      - name: Build with Hugo
+        env:
+          # For maximum backward compatibility with Hugo modules
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
 
   # Deployment job
   deploy:
