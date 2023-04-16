@@ -49,7 +49,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: npm run build
+      - run: npm run gh-page-compile
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
