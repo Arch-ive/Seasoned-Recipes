@@ -49,8 +49,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: npm run gh-page-compile
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/master' }}
