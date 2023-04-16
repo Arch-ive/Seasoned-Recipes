@@ -27,7 +27,7 @@ defaults:
     shell: bash
 
 jobs:
-  deploy:
+  steps:
     runs-on: ubuntu-22.04
     permissions:
       contents: write
