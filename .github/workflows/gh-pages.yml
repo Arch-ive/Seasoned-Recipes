@@ -45,8 +45,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: npm assets
-      - run: npm gh-page-compile
+      - run: npm run assets
+      - run: npm run gh-page-compile
 
       - name: Install dependencies and Build Theme
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
@@ -58,11 +58,6 @@ jobs:
 
       - name: Build
         run: hugo --minify
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ./public
 
   # Deployment job
   deploy:
