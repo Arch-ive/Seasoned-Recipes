@@ -54,7 +54,7 @@ jobs:
       - name: Build assets and css
         uses: actions/setup-node@v3
       - run: npm run assets
-      - run: npm run build
+      - run: npm run gh-page-compile
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
