@@ -54,8 +54,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
       - name: Install dependencies and Build Theme
+        uses: actions/setup-node@v3
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build assets and css
+        uses: actions/setup-node@v3
       - run: npm run assets
       - run: npm run gh-page-compile
       - name: Setup Hugo
