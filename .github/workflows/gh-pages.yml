@@ -37,8 +37,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: npm ci
-      - run: npm run build
+      - name: Install dependencies and Build Theme
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
