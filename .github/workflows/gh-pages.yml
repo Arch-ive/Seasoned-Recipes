@@ -39,8 +39,8 @@ jobs:
 
       - name: Install dependencies and Build Theme
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-	run: npm run assets
-	run: npm run build
+	run: "npm run assets"
+	run: "npm run build"
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
