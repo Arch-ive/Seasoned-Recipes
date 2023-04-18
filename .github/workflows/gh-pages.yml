@@ -24,11 +24,9 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Install dependencies and Build Theme
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-
       - name: Build assets and css
         uses: actions/setup-node@v3
+      - run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - run: npm run assets
       - run: npm run build
 
