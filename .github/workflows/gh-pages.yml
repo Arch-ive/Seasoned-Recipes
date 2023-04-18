@@ -24,19 +24,11 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Build assets and css
+      - name: Setup Node
         uses: actions/setup-node@v3
       - run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - run: npm run assets
       - run: npm run gh-page-compile
-
-      - name: Cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -50,7 +42,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"    
+          hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
