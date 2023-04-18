@@ -30,6 +30,14 @@ jobs:
       - run: npm run assets
       - run: npm run gh-page-compile
 
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
