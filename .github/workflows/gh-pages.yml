@@ -24,11 +24,6 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: '14'
-
       - name: Install dependencies and Build Theme
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
