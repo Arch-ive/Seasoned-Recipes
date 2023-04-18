@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arch-ive.github.io/Seasoned-Recipes/sitemap.xml
