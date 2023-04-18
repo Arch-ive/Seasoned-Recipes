@@ -46,7 +46,7 @@ jobs:
       - name: Build assets and css
         uses: actions/setup-node@v3
       - run: npm run assets
-      - run: npm run gh-page-compile
+      - run: npm run build
 
 
       - name: Install dependencies and Build Theme
