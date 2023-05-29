@@ -1,12 +1,14 @@
 ---
 title: "Jam"
 date: 2023-03-19T16:23:07Z
-draft: true
+draft: false
 recipes: ["All"]
 ---
 
 # Blueberry/Strawberry/Blackberry Jam
 
-Half/Half sugar and fruit. If you want smoother less chunky jam cook the fruit down without the sugar first. Sugar stops the structure from breaking down.
+Half/Half sugar and fruit. If you want smoother less chunky jam cook the fruit down without the sugar first (sugar stops the structure from breaking down).
 
-Squeeze of orange juice for blueberry. Lemon for Strawberry. Some gelatin to help it set.
+Bloom the gelatine in cold water and add it to the mix when it's off the heat.
+
+Juice of one citruis per 250mls to finish. Orange for blueberry. Lemon for Strawberry.

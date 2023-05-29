@@ -1,6 +1,6 @@
 ---
 title: "Cacio e Pepe"
-draft: true
+draft: false
 heros: ["Pasta"]
 recipes: ["All"]
 ---
@@ -35,8 +35,11 @@ It's best to make this with [Fresh Pasta]({{< ref "recipe/base/fresh pasta" >}})
 
 - Pull the pasta out when it's almost cooked and put it in the pan with the pepper and butter
 
-- Add cheese and pasta water until you get a good coating on the pasta. Add as much pepper as you wish.
+- Add cheese and pasta water, simmer and toss until you get a good coating on the pasta. Add as much pepper frshly ground pepper as you wish.
 
 - Serve
 
->Pro Tip: Use quite abit of water for the sauce don't be shy & pre-heat the serving bowls so the sauce doesn't seize
+>Pro Tips: <br>
+>Add enough pasta water where you've got a light pool in the pan; the aim is to have the pasta cooked through & enough water evaporated to finish the dish at the same time.
+>
+>Pre-heat the serving bowls so the sauce doesn't seize
