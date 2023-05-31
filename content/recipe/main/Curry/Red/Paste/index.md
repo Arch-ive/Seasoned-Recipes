@@ -57,7 +57,7 @@ Thinly cut the kaffir lime leaves discarding the woody stem and bash into the mo
 {{< /gallery >}}
 <br><br>
 {{< alert "check" >}}
-Put away the mortar and pestle. We'll add these to the blender in due course.
+Put away the mortar and pestle. We'll add these to the food processor later.
 {{< /alert >}}
 {{< figure
     src="gallery/mort1.jpg"
@@ -65,7 +65,7 @@ Put away the mortar and pestle. We'll add these to the blender in due course.
     caption="Spice and Aromat Components"
     >}}
 
-### Bulk Wiz
+### Process to Paste
 
 Grab the rest of the ingredients
 
@@ -86,7 +86,7 @@ Cut up the shallots, deseed and cut up the chilis (bar one half of one), pick th
   <img src="gallery/blend6.jpg" class="grid-w33" />
 {{< /gallery >}}
 <br>
-Freeze in portions
+Turn out ~2 tablespoons onto glad wrap and fold up. Store in the freezer.
 <br>
 {{< figure
     src="gallery/packet.jpg"

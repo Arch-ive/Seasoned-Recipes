@@ -7,10 +7,19 @@ recipes: ["All"]
 
 | Ingredient  | Amount |
 | ----- | ---- |
-| Self Rasing Flour | 3 Cups |
-| Butter | 60g |
-| Milk | 1 |
+| Self Rasing Flour | 2 Cups |
+| Butter | 40g melted |
+| Milk | ~1 Cup |
+| Salt | pinch to taste |
 
+## Method
 
+Combine all the ingredients in a bowl and turn out onto the bench. Bring it all together, roll flat and cut out. Place the cut dough together on a baking paper and bake in the oven at 180degC for about 10mins or until golden.
 
-Make & bake. Jam & Cream.
+Once they're done, take them out of the oven and wrap them in a tea towel to cool. While they're cooling whip some cream and find your favourite [jam]({{< ref "recipe/sweet/jam" >}}).
+
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+Reminder:<br>
+The Original recipe was 3 cups / 60g butter / 1.3-1.5 milk. The ammounts have been reduced for 2.<br>
+Do not "work" the dough like it's pasta. If you do the scones will turn out rock hard.
+{{< /alert >}}
