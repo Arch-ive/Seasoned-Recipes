@@ -1,6 +1,6 @@
 ---
 title: "Massaman Lamb Shanks"
-draft: true
+draft: false
 heros: ["Lamb"]
 recipes: ["All"]
 ---
@@ -23,7 +23,7 @@ recipes: ["All"]
 
 - Pre heat the oven to 160degC
 
-- Cut up the onion into petals and potato into large chunks. Put them into a baking dish and add the stock, coconut milk, cinnamon stick, star anise and half of a can of the paste and mix all together. Press the lamb shanks in the displacing the potato and onion so they're coated in the sauce and as deep as much as the liquid will allow and cover (lid or foil).
+- Cut up the onion into petals and potato into large chunks. Put them into a baking dish and add the stock, coconut milk, cinnamon stick, star anise and half of a can of the paste and mix all together. Press the lamb shanks in displacing the potato and onion so they're covered as much as the liquid will allow; coat with sauce and cover with a lid or foil.
 
 >Put the tin of coconut milk under the tap to get it all out. The extra water will give more time to cook uncovered later.
 
@@ -35,7 +35,7 @@ recipes: ["All"]
 
 - Put the dish in the oven to cook for 2 hours. After this time has passed remove the lid and turn the shanks and coat with the sauce. Continue to cook for a further 1hr.
 
->With the lid off the sauce will reduce and the exposed shanks will get colour so turn them every 20-30min so they get colour on all sides. Add more water if it's getting to low (dropping below half the height of the shank).
+>With the lid off the sauce will reduce and the exposed shanks will bake so turn them every 20-30min so they get colour on all sides. Add more water if it's getting to low (dropping below half the height of the shank).
 
 {{< gallery >}}
   <img src="gallery/b1.jpg" class="grid-w33" />

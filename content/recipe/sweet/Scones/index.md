@@ -1,7 +1,7 @@
 ---
 title: "Scones"
 date: 2023-03-19T16:23:07Z
-draft: true
+draft: false
 recipes: ["All"]
 ---
 
@@ -14,7 +14,7 @@ recipes: ["All"]
 
 ## Method
 
-Combine all the ingredients in a bowl and turn out onto the bench. Bring it all together, roll flat and cut out. Place the cut dough together on a baking paper and bake in the oven at 180degC for about 10mins or until golden.
+Combine all the ingredients in a bowl and turn out onto the bench. Bring it all together, roll flat and cut out. Place the cut dough together on a baking paper, brush with milk and bake in the oven at 200degC for about 10mins or until golden.
 
 Once they're done, take them out of the oven and wrap them in a tea towel to cool. While they're cooling whip some cream and find your favourite [jam]({{< ref "recipe/sweet/jam" >}}).
 
