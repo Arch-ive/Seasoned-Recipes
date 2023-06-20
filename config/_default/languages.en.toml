@@ -1,16 +1,17 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
-
 title = "Seasoned Recipes"
-logo = "header/headericon.png"
-# description = "Food for thought"
-# copyright = "text"
 
-dateFormat = "2 January 2006"
+ [params]
+   displayName = "EN"
+   isoCode = "en"
+   rtl = false
+   dateFormat = "2 January 2006"
+   logo = "header/headericon.png"
+   # secondaryLogo = "img/secondary-logo.png"
+   # description = "Food for thought"
+   # copyright = "text"
 
  [author]
    name = "Seasoned Recipes"
