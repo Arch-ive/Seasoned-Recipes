@@ -20,7 +20,8 @@ recipes: ["All"]
 | Peper |  |
 | Garlic | 2 cloves |
 | Ground Cumin |  |
-| Smoked Paprika | 1 tspn |
+| Ground Coriander  |  |
+| Smoked Paprika | 1 tsp |
 | Chili Powder |  |
 | Lime Zest |  |
 | Cornflour |  |
