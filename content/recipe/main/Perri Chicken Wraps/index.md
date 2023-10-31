@@ -6,4 +6,19 @@ heros: ["Chicken"]
 recipes: ["All"]
 ---
 
-Perri perri chicken in wraps
+## Perri Perri Chicken Wraps
+
+| Ingredients  |  |
+| ----- | ---- |
+| Chookas Peri Peri Marinaded chicken bits bashed flat |  |
+| Capsicum |  |
+| Cabbage |  |
+| Spinach |  |
+| Pickled red onion half rings |  |
+| Avo |  |
+| Tomato |  |
+| Cucumber  |  |
+| Coriander |  |
+| Chili mayo |  |
+| Cheese |  |
+| Toasted wrap | |
