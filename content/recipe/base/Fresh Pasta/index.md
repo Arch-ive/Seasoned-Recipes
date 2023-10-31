@@ -16,7 +16,11 @@ recipes: ["All"]
 
 >When making Pici the flour ratio of Semolina to 00 is increased and eggs removed
 
-{{< carousel images="{gallery/pasta_shape1.jpg,gallery/pasta_shape2.jpg,gallery/pasta_shape3.jpg}" interval="10000" >}}
+{{< gallery >}}
+  <img src="gallery/pasta_shape1.jpg" class="grid-w33" />
+  <img src="gallery/pasta_shape2.jpg" class="grid-w33" />
+  <img src="gallery/pasta_shape3.jpg" class="grid-w33" />
+{{< /gallery >}}
 
 <br>
 
