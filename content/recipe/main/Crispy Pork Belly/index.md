@@ -7,8 +7,13 @@ seasons: ["Winter Warmers"]
 recipes: ["All"]
 ---
 
-Salt pork
+Salt pork skin and rub fennel/herb paste on the underside. Let it sit in the fridge for the skin to dry out and the paste to penetrate the flesh
 
 Roast it /w beetroot and other root veg
 
 Serve with apple sauce
+
+
+### Next time
+- to get the skin to crackle, don't use the broiler. Turn the oven up to max.
+- more scoring and deeper

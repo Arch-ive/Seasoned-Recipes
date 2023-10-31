@@ -35,7 +35,7 @@ recipes: ["All"]
 
 - Put the dish in the oven to cook for 2 hours. After this time has passed remove the lid and turn the shanks and coat with the sauce. Continue to cook for a further 1hr.
 
->With the lid off the sauce will reduce and the exposed shanks will bake so turn them every 20-30min so they get colour on all sides. Add more water if it's getting to low (dropping below half the height of the shank).
+>With the lid off the sauce will reduce and the exposed shanks will bake so turn them every 20-30min so they get colour on all sides. Add more water if it's getting too low (dropping below half the height of the shank).
 
 {{< gallery >}}
   <img src="gallery/b1.jpg" class="grid-w33" />

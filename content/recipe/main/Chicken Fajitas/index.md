@@ -6,7 +6,8 @@ heros: ["Chicken"]
 recipes: ["All"]
 ---
 
-Chicken
+### Chicken
+
 | Ingredient  | Amount |
 | ----- | ---- |
 | Chicken Thigh | 2 |
@@ -20,18 +21,18 @@ Chicken
 | Garlic | 2 Cloves |
 | Ground Cumin |  |
 | Smoked Paprika | 2 slices |
-| Chili Powder |
+| Chili Powder |  |
 | Lime Zest |  |
 | Cornflour |  |
 
-Hot Sauce
+### Hot Sauce
 | Ingredient  | Amount |
 | ----- | ---- |
 | Chipotle in Adobo |  |
 | Greek Yogurt |  |
 | Lime Juice |  |
 
-Salsa
+### Salsa
 | Ingredient  | Amount |
 | ----- | ---- |
 | Tomato cubes |  |
@@ -40,7 +41,7 @@ Salsa
 | Chili |  |
 | Lime Juice |  |
 
-Tortillas
+### Tortillas
 | Ingredient  | Amount |
 | ----- | ---- |
 | Tasty Cheese |  |

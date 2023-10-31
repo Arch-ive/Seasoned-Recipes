@@ -6,4 +6,10 @@ heros: ["Fish"]
 recipes: ["All"]
 ---
 
-FUUUUSH + Blackend Salmon and Terri and fennel side
+Choose your flavour profile:
+
+- Teriyaki
+
+- Blackened
+
+- [Fennel]({{< ref "recipe/side/Fennel & Tomato & Herbs" >}}) & Butternut Pumpkin
