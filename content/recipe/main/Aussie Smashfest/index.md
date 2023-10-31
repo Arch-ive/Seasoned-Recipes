@@ -32,19 +32,35 @@ Break this out on a weekend to set you up for the day. The bright pockets of aci
 
 Heat a cast iron skillet on the BBQ and add a thin layer of butter to coat the pan. Cut the mushrooms into quaters and the tomato down and add them to the pan. Microplane garlic over the mushrooms and add enough butter to them so they're coated.
 
->perhaps make a garlic butter rather than adding them seperately to the mushrooms.
+>If you already have garlic butter then add a knob of that
 
-{{< carousel images="{gallery/11.jpg,gallery/12.jpg,gallery/13.jpg,gallery/14.jpg}" interval="{10000}" >}}
+{{< gallery >}}
+  <img src="gallery/11.jpg" class="grid-w33" />
+  <img src="gallery/12.jpg" class="grid-w33" />
+  <img src="gallery/13.jpg" class="grid-w33" />
+  <img src="gallery/14.jpg" class="grid-w33" />
+{{< /gallery >}}
+
 <br/>
 While the mushrooms and tomatoes cook down prepare the avocado. Scoop out the flesh and use a fork to smash it up, season with salt and pepper and add a squeeze of lemon.
 
-{{< carousel images="{gallery/03.jpg,gallery/01.jpg,gallery/02.jpg}" interval="{10000}" >}}
+{{< gallery >}}
+  <img src="gallery/012.jpg" class="grid-w33" />
+  <img src="gallery/02.jpg" class="grid-w33" />
+  <img src="gallery/03.jpg" class="grid-w33" />
+{{< /gallery >}}
+
 <br/>
-Add bacon and let it cook for a while rotating the pieces around to coat them the fat that has rendered out into the pan. Once the bacon is almost there, drizzle olive oil on the sourdough and place on the grill and toss the spinich into the mushrooms.
+Add bacon and let it cook for a while rotating the pieces around to coat them with the fat that has rendered out into the pan. Once the bacon is almost there drizzle olive oil on the sourdough and place on the grill to toast and toss the spinich into the mushrooms.
 
 Baked beans go in and then crack the eggs in last. Let them cook for a few minutes.
 
-{{< carousel images="{gallery/21.jpg,gallery/22.jpg,gallery/23.jpg}" aspectRatio="16-9" interval="{10000}" >}}
+{{< gallery >}}
+  <img src="gallery/21.jpg" class="grid-w33" />
+  <img src="gallery/22.jpg" class="grid-w33" />
+  <img src="gallery/23.jpg" class="grid-w33" />
+{{< /gallery >}}
+
 <br/>
 Salt and pepper on the eggs to finish. Serve up and enjoy.
 
