@@ -11,19 +11,19 @@ recipes: ["All"]
 | Pepper   |
 | Butter   |
 
-It's best to make this with [Fresh Pasta]({{< ref "recipe/base/fresh pasta" >}}) but packet will work.
+It's best to make this with [Fresh Pasta]({{< ref "recipe/base/fresh pasta" >}}) but packet will work
 
 ## Method
 
 ### Preperation
 
-- Cut one persons serve of fresh pasta dough ball and squash it flat so it can pass though the pasta roller. 
+- Cut one persons serve of fresh pasta from the dough ball and press it flat
 
->Make sure to dust the pasta sheets during the rolling process if needed so it passes through easy and doesn't stick.
+>Make sure to dust the pasta sheets during the rolling process if needed so it passes through easy and doesn't stick
 
-- Book-fold the dough 3 or 4 times and begin passing it though the roller 2-3 times on each setting finishing on thickness 4.
+- Book-fold the dough passing it through the roller after each fold 3 or 4 times and then continue passing it 2-3 times on each setting, finishing on thickness 4
 
-- Cut the pasta sheets to length for ease of eating and pass them through the spaghetti attachment
+- Cut the pasta sheets to your desired length and pass them through the spaghetti attachment
 
 - Toss the spaghetti though flour to coat, separate and leave to dry for ~30mins
 
@@ -35,10 +35,10 @@ It's best to make this with [Fresh Pasta]({{< ref "recipe/base/fresh pasta" >}})
 
 - Pull the pasta out when it's almost cooked and put it in the pan with the pepper and butter
 
-- Add cheese and pasta water, simmer and toss until you get a good coating on the pasta. Add as much freshly ground pepper as you wish.
+- Add cheese and pasta water tossing the until you get a good coating on the pasta. Add as much freshly ground pepper as you wish
 
 - Serve
 
->Add enough pasta water where you've got a light pool in the pan; the aim is to have the pasta cooked through & enough water evaporated to finish the dish at the same time.
+>Add enough pasta water where you've got a light pool in the pan; the aim is to use the residual heat of the pan to have the pasta cooked through & enough pasta water encorporate the cheese to finish the dish at the same time
 >
 >Pre-heat the serving bowls so the sauce doesn't seize
