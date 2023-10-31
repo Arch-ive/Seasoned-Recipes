@@ -6,9 +6,9 @@ recipes: ["All"]
 
 ## Fresh Salsa
 
-Avocado
-Red onion
-Chili
-Lime Juice
-Corriander
-Yoghurt
+- Avocado
+- Red onion
+- Lime Juice
+- Corriander
+- Yoghurt
+- Chili
