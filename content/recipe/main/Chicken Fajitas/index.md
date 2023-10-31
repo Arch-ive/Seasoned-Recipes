@@ -18,9 +18,9 @@ recipes: ["All"]
 | Olive Oil |  |
 | Salt |  |
 | Peper |  |
-| Garlic | 2 Cloves |
+| Garlic | 2 cloves |
 | Ground Cumin |  |
-| Smoked Paprika | 2 slices |
+| Smoked Paprika | 1 tspn |
 | Chili Powder |  |
 | Lime Zest |  |
 | Cornflour |  |
@@ -32,15 +32,6 @@ recipes: ["All"]
 | Greek Yogurt |  |
 | Lime Juice |  |
 
-### Salsa
-| Ingredient  | Amount |
-| ----- | ---- |
-| Tomato cubes |  |
-| Red Onion | 1/4 |
-| Corriander |  |
-| Chili |  |
-| Lime Juice |  |
-
 ### Tortillas
 | Ingredient  | Amount |
 | ----- | ---- |
@@ -48,7 +39,8 @@ recipes: ["All"]
 | Spinach |  |
 | Red Cabbage |  |
 | Avocado |  |
-
+| Corriander |  |
+| Tomato cubes |  |
 
 # Method
 
