@@ -14,7 +14,7 @@ recipes: ["All"]
 
 >These ratios are per person. Double it for two people and so on.
 
->When making Trofie the flour ratio of Semolina to 00 is increased and eggs removed
+>When making Pici the flour ratio of Semolina to 00 is increased and eggs removed
 
 {{< carousel images="{gallery/pasta_shape1.jpg,gallery/pasta_shape2.jpg,gallery/pasta_shape3.jpg}" interval="10000" >}}
 
