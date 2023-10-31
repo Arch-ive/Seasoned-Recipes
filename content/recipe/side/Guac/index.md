@@ -4,7 +4,7 @@ draft: true
 recipes: ["All"]
 ---
 
-## Fresh Salsa
+## Ingredients
 
 - Avocado
 - Red onion
