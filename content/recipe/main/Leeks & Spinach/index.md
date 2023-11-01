@@ -7,12 +7,12 @@ heros: ["Pasta"]
 
 | Ingredient |  |
 | ----- | ----- |
-| Leek | 3 |
-| Garlic | 3 cloves |
-| Thyme | 3 sprigs |
-| Spinach | 1 handful |
-| Thick Cream | 1<sup>1/2</sup> cup |
-| White Wine | 1/4 cup |
+| Leek | 1-2 |
+| Garlic | 2 cloves |
+| Thyme | 2 sprigs |
+| Spinach | 2 handfuls |
+| Thick Cream | 1 cup |
+| White Wine | Decent glug |
 | Olive Oil | 2 tbsp |
 | Butter | 2 tbsp |
 | Salt | to taste |
@@ -22,12 +22,12 @@ heros: ["Pasta"]
 
 ## Method
 
-- Saute leeks, garlic and thyme in the lidded saucepan w/ a pinch of salt on a low to med heat. Keep them covered stirring often until leeks are translucent (~10 to 12 min)
+- Cut the roots and dark green off the leeks. Cut them into quaters lengthways and dice along with the garlic
 
-- Add wine, cover, and simmer about 2 minutes. Reduce heat to low. Remove thyme stems. Add cream, cover, and simmer, about 15 minutes, until leeks are very tender and cream has thickened slightly.
+- Saute leeks, garlic and thyme in butter, oil and a pinch of salt on a low to med heat. Keep stirring until the leeks are translucent (~10min)
 
-- Fold in spinach, cover, and cook, stirring often, until spinach wilts, about 5 minutes.
+- Pour in the wine and simmer for ~2 minutes. Reduce heat to low and add cream, simmer for ~15 minutes with a lid on until leeks are very tender and cream has thickened slightly
 
-- Meanwhile, bring a large pot of salted water to a boil over high heat. Add pasta and cook, stirring often, until al dente, about 5 minutes.
+- Bring a pot of salted water to a boil and cook the pasta. Fold in the spinach when you drop the pasta into the water
 
-- Transfer pasta to leek mixture and toss to coat. Fold in butter and season to taste with salt and pepper. Divide pasta among 4 shallow bowls, shave Parmesan on top, and serve immediately.
+- Transfer pasta to leeks in the pan and toss to coat. Add in butter and season to taste with salt and pepper. Finish with parmesan cheese on top and serve
