@@ -4,19 +4,20 @@ draft: true
 recipes: ["All"]
 ---
 
-## Ingredients
 
-Green Apple
-Carrot
-Red Cabbage
-Red Onion
-Corriander
-
+# Main Ingredients
+- Green Apple
+- Carrot (grated thick)
+- Red Cabbage
+- Red Onion
+- Corriander
+<br>
+<br>
 # Dressing
-Djon mustard
-Olive Oil
-Mayple Syrup
-Ground cumin
-Orange
-Yoghurt
-Salt & Pepper
+- Djon mustard
+- Olive Oil
+- Mayple Syrup
+- Ground cumin
+- Orange
+- Yoghurt
+- Salt & Pepper
