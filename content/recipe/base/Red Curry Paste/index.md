@@ -17,7 +17,7 @@ Skip to Method
 | Lemongrass | 3 small sticks ~30g |
 | Ginger | 5cm knob |
 | Garlic | 3 cloves |
-| Carriander Root | 2 |
+| Corriander Root | 2 |
 | Kaffir Lime Leaf | 2 |
 | Thai Basil | 1 small bunch |
 | Jeeny's Shrimp Paste | 1 tab |
@@ -45,7 +45,7 @@ Put your black peppercorns, corriander seeds and cumin seeds in a hot dry pan an
 
 ### Cut & Pound - Wet Aromatics
 
-Thinly cut the kaffir lime leaves discarding the woody stem and bash into the mortar and pestle. Cut the lemongrass as fine as you can into small disks discarding the tops and tails, breaking up the long fibres with a knife now will pay dividends in the long run. Bash them up as well. Then add the ginger (also cut against the grain) corriander root, garlic and salt.
+Thinly cut the kaffir lime leaves discarding the woody stem and bash into the mortar and pestle. Cut the lemongrass as fine as you can into small disks discarding the tops and tails (breaking up the long fibres by cutting them in this way will pay dividends in the long run). Bash them up as well. Then add the ginger (also cut against the grain) corriander root, garlic and salt.
 <br>
 {{< gallery >}}
   <img src="gallery/aroma1.jpg" class="grid-w33" />
