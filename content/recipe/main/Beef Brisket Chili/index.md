@@ -39,64 +39,40 @@ Skip to Method
 Cut up the brisket into managable pieces. Season with spices and sear off in the slowcooker
 
 {{< gallery >}}
-  <img src="gallery/spice1.jpg" class="grid-w33" />
-  <img src="gallery/spice2.jpg" class="grid-w33" />
-  <img src="gallery/spice3.jpg" class="grid-w33" />
-  <img src="gallery/spice4.jpg" class="grid-w33" />
-  <img src="gallery/spice5.jpg" class="grid-w33" />
-  <img src="gallery/spice6.jpg" class="grid-w33" />
+  <img src="gallery/beef1.jpg" class="grid-w33" />
+  <img src="gallery/beef2.jpg" class="grid-w33" />
+  <img src="gallery/beef3.jpg" class="grid-w33" />
 {{< /gallery >}}
 
 ### Soften the onions
 
-Cut up the onions and chuck em in the slowcooker and roll them all around the beef/spice opil and cook them down until they soften.
+Cut up the onions and chuck em in the slowcooker and roll them all around the beef/spice oil and cook them down until they soften.
 <br>
 {{< gallery >}}
-  <img src="gallery/aroma1.jpg" class="grid-w33" />
-  <img src="gallery/aroma2.jpg" class="grid-w33" />
-  <img src="gallery/aroma3.jpg" class="grid-w33" />
-  <img src="gallery/aroma4.jpg" class="grid-w33" />
-  <img src="gallery/aroma5.jpg" class="grid-w33" />
-  <img src="gallery/aroma6.jpg" class="grid-w33" />
+  <img src="gallery/onions.jpg" class="grid-w33" />
 {{< /gallery >}}
 <br><br>
 {{< alert "check" >}}
 Now add all the other things and mix and put on slowcook for 5hrs
 {{< /alert >}}
-{{< figure
-    src="gallery/mort1.jpg"
-    alt="Red Curry Paste Ingredients"
-    caption="Spice and Aromat Components"
-    >}}
+<br>
+{{< gallery >}}
+  <img src="gallery/pot1.jpg" class="grid-w33" />
+  <img src="gallery/pot2.jpg" class="grid-w33" />
+{{< /gallery >}}
 
 ### Pull
 
-Pull the beef and reduce the sauce for almost 1-1.5hrs (so stock pot gell pod may be worth)
+Pull the beef and reduce the sauce for almost 1-1.5hrs (so stock pot gell pod may be worthwhile)
 
-{{< figure
-    src="gallery/blend1.jpg"
-    alt="Red Curry Paste Ingredients"
-    caption="Spice and Aromat Components"
-    >}}
-
-Add any cornstarch and slide the pulled beef back in there. Stir so it doesn't catch on the bottom the slowcooker is real hot on full sear. May want to pop it on hold to control the heat from getting to much.
+Add any cornstarch and slide the pulled beef back in there. Stir so it doesn't catch on the bottom the slowcooker as it is really hot on full sear. May want to pop it on hold to control the heat from getting to much.
 <br><br>
-{{< gallery >}}
-  <img src="gallery/blend1.jpg" class="grid-w33" />
-  <img src="gallery/blend2.jpg" class="grid-w33" />
-  <img src="gallery/blend3.jpg" class="grid-w33" />
-  <img src="gallery/blend4.jpg" class="grid-w33" />
-  <img src="gallery/blend5.jpg" class="grid-w33" />
-  <img src="gallery/blend6.jpg" class="grid-w33" />
-{{< /gallery >}}
-<br>
 Bag and tag
 <br>
-{{< figure
-    src="gallery/packet.jpg"
-    alt="Beef Chili"
-    caption="This recipe makes 9 packs"
-    >}}
+{{< alert "check" >}}
+This recipe makes 9 packs
+{{< /alert >}}
+
 <br>
 {{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 Next time you make this:<br>
