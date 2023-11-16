@@ -5,4 +5,11 @@ heros: ["Pork"]
 recipes: ["All"]
 ---
 
-[Slow Cooked Pork]({{< ref "recipe/base/Pulled Pork" >}}) in soft wraps
+| Ingredient  | Amount |
+| ----- | ----- | 
+| [Slow Cooked Pork]({{< ref "recipe/base/Pulled Pork" >}}) | |
+| [Texas Slaw]({{< ref "recipe/side/Texas Slaw" >}}) |  |
+| Pickled Red Onions |  |
+| Cabbage |  |
+| Baby Spinach |  |
+| Tortillas |  |
