@@ -3,6 +3,7 @@ title: "Massaman Lamb Shanks"
 draft: false
 heros: ["Lamb"]
 recipes: ["All"]
+date: 2022-07-24
 ---
 
 | Ingredient  | Amount |
