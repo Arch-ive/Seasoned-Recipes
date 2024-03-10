@@ -14,8 +14,6 @@ recipes: ["All"]
 
 >These ratios are per person. Double it for two people and so on.
 
->When making Pici the flour ratio of Semolina to 00 is increased and eggs removed
-
 {{< gallery >}}
   <img src="gallery/pasta_shape1.jpg" class="grid-w33" />
   <img src="gallery/pasta_shape2.jpg" class="grid-w33" />
@@ -33,6 +31,16 @@ Turn the mixture out onto the bench and kneed to combine adding more flour as yo
 Form the dough into a ball, it should be smooth and spring back when you poke it. Dust with flour and wrap in glad wrap to rest for ~30mins.
 
 You're ready to roll it out and create your desired shape.
+
+### Semolina Pasta Dough
+
+| Ingredient | Amount |
+| ----- | ----- |
+| Flour |  125g 00 & 125g Semolina |
+| Salt |  4-5g |
+| Water (warm) | 110g-125g |
+
+>Ratios are for 2 people. <br>Same method as above however don't tear the dough, just fold it in over itself to combine everything evenly & use warm water to give the dough some life
 
 ### Green Pasta
 
