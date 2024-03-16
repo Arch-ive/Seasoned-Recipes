@@ -6,8 +6,15 @@ recipes: ["All"]
 
 ## Apple Cranberry Walnut Salad
 
-Apple 
-Cranberry 
-Walnut 
-Spinach
-Danish Fetta
+Green Apple<br>
+Cranberry<br> 
+Walnut<br>
+Spinach<br>
+Danish Fetta<br>
+<br>
+Dressing<br>
+- Olive Oil
+- Apple cider vinegar
+- Salt
+- Pepper
+- apparently orange/djon/mayple (texas slaw dressing?)
