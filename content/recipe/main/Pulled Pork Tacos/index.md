@@ -18,7 +18,7 @@ recipes: ["All"]
 | Baby Spinach |  |
 | Chipotle Sauce |  |
 | Tortillas |  |
-| Tasty Cheese | ? |
+| Tasty Cheese |  |
 
 ### [Texas Slaw]({{< ref "recipe/side/Texas Slaw" >}})
 
