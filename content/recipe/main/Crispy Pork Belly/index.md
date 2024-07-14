@@ -7,11 +7,23 @@ seasons: ["Winter Warmers"]
 recipes: ["All"]
 ---
 
-Score and salt the skin and rub fennel/herb paste on the underside. Let it sit in the fridge for the skin to dry out and the paste to penetrate the flesh
+Toast the peppercorns and fennel seeds and grind up in the mortar and pestle along with salt and materfoods italian herbs. Once it's ground, microplane in garlic and mix together with olive oil.
 
-Roast it /w beetroot and other root veg
+Rub fennel/herb paste on the underside of the pork and pat dry the skin. Salt the skin and let it sit in the fridge so the skin drys out and the paste to penetrate the flesh.
 
-Serve with apple sauce
+>If you have time, check it after a few hours and pat the skin dry again if the salt has done it's thing.
+
+Turn on the oven and while it's getting to temp, score the skin in 2-3mm strips or as best you can. When the oven it at temp pop in the pork (we're going to roast it for 30min on max).
+
+While it's roasing cut up the veg and season ready to be put in the oven.
+
+Apple Sauce -
+
+Peel and slice apple and put into the pan on a medium heat. Microplane some orange and lemon zest onto the apple and add some sugar and cinnamon. Add some water if it's getting too dry and cook down.
+
+Check on the pork & veg in the oven; see if you want to crank the heat up again to finish or use the broiler.
+
+Once you're happy serve the pork + veg + apple sauce.
 
 >Protip: when cutting the pork, place it skin side down and cut though the bottom down though to the skin
 
