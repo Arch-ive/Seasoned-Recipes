@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Risotto on Seasoned Recipes</title>
+    <link>http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/</link>
+    <description>Recent content in Risotto on Seasoned Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Seasoned Recipes</copyright>
+    <lastBuildDate>Mon, 20 Mar 2023 17:41:06 +0000</lastBuildDate><atom:link href="http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mushroom Risotto</title>
+      <link>http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/mushroom/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/mushroom/</guid>
+      <description>Mushroom risotto</description>
+      
+    </item>
+    
+    <item>
+      <title>Ossobuco Risotto</title>
+      <link>http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/ossobuco-milanese/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/ossobuco-milanese/</guid>
+      <description>Ossobuco risotto</description>
+      
+    </item>
+    
+    <item>
+      <title>Prawn Tomato &amp; Fennel Risotto</title>
+      <link>http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/prawn-tomato--fennel/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/prawn-tomato--fennel/</guid>
+      <description>Prawn Tomato &amp;amp; Fennel risotto</description>
+      
+    </item>
+    
+    <item>
+      <title>Pumpkin Tomato &amp; Fennel Risotto</title>
+      <link>http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/pumpkin-tomato--fennel/</link>
+      <pubDate>Mon, 20 Mar 2023 17:41:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Seasoned-Recipes/recipe/main/risotto/pumpkin-tomato--fennel/</guid>
+      <description>Pumpkin Tomato &amp;amp; Fennel risotto</description>
+      
+    </item>
+    
+  </channel>
+</rss>
