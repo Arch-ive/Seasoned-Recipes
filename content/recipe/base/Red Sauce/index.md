@@ -8,7 +8,6 @@ recipes: ["All"]
 | Ingredient  | Amount |
 | ----- | ---- |
 | Crushed Tomatos | 1 Can (400ml) |
-| Onion | 1/2 |
 | Garlic | 1-2 cloves |
 | Olive Oil | 3-4 glugs |
 | Parsley or Basil | 1 Handful |
@@ -17,11 +16,11 @@ recipes: ["All"]
 
 ## Method
 
-- Get the deep dish pan on a medium heat and add the olive oil, onion (diced) and eventually garlic and sweat them down.
+- Get the deep dish pan on a medium heat and add the olive oil, garlic and any herb stems (finely diced).
 
-> You want the heat to get the flavour into the oil so it goes thoughout the dish but avoid burning anything. Add any herb stems at the start to help break them down.
+> You want the heat to extract the flavour of the garlic into the oil so it goes thoughout the dish so avoid burning it. Adding herb stems at the start helps break them down.
 
-- After the onion has gone soft and translucent add the tomato and herbs. Turn down the heat and simmer for ~10-15min.
+- After ~10mins add the tomato and soft herbs. Turn down the heat and simmer for a further ~10-15min.
 
 - To finish add a tiny knob of butter, cheese and a splash of pasta water and mix through.
 
