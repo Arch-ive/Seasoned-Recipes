@@ -22,9 +22,9 @@ recipes: ["All"]
 | Ground Cumin |  |
 | Ground Coriander  |  |
 | Smoked Paprika | 1 tsp |
-| Chili Powder |  |
 | Lime Zest |  |
 | Cornflour |  |
+| Chili Powder |  optional |
 
 ### Hot Sauce
 | Ingredient  | Amount |
@@ -45,4 +45,12 @@ recipes: ["All"]
 
 # Method
 
-1. Cook it
+Make the marinade by squeezing the juice of an orange, zest of a lime and half it's juice (other half goes in the adobo), garlic (microplaned) and spices. 
+
+Prep the veg by cutting up the capcicum into strips and the red onion into petals (cut the half into 4 and peel).  Into the marinade.
+
+Add olive oil to the pan and heat to a medium heat, cook the capcicum/onion for ~5mins to soften them up. Meanwhile  cut up the chicken into strips and put them in the marinade.
+
+Add the chicken to the pan. Once the chicken is more cooked than not, add the rest of the marinade to the pan and simmer. Thicken by adding cornflour slurry.
+
+Otherwise prep the other ingerdients ready to make a tortilla.
