@@ -11,23 +11,25 @@ recipes: ["All"]
 | Potatoes | 2 |
 | Carrots | 2 |
 | Beetroot | 1 |
-| Lemon | 1 |
-| Rosemary | 2 sprigs |
+| Lemon | 1/2 |
+| Rosemary | 2-3 sprigs |
 | Thyme | 1 tsp |
-| Butter | 1 tblsp |
+| Butter | 1/2 tblsp |
 | Salt | To taste |
 | Pepper | To taste |
 | Olive Oil | To coat |
 
 # Method
 
-- Cut up the veg. Salt + olive oil. Toss together with the rosemary sprigs. Put in the cast iron pan.
+- Cut up the veg. Salt + olive oil. Toss together with some chopped rosemary. Put them on their own roasting tray.
 
 {{< gallery >}}
   <img src="gallery/veg1.jpg" class="grid-w33" />
 {{< /gallery >}}
 
-- Slash the chicken to the bone in a few areas, get tyme/butter under the skin. Massage leftover all over the chicken. Put ontop of the veg. Salt, pepper and microplane some lemon zest over the chicken, squeeze some juice over the skin and place the lemon face down on the pan.
+- Slash the chicken to the bone in a few areas, get the tyme/butter under the skin. Massage leftover all over the chicken and place in the cast iron pan along with a few sprigs of rosemary. Salt, pepper and microplane some lemon zest over the chicken and place the lemon face down in the pan.
+
+> Use heat of the oven to soften the butter. Pop it in the fridge if it goes too far
 
 {{< gallery >}}
   <img src="gallery/butter1.jpg" class="grid-w33" />
@@ -38,9 +40,17 @@ recipes: ["All"]
   <img src="gallery/chook3.jpg" class="grid-w33" />
 {{< /gallery >}}
 
-- Roast at 180degC for 45min. Longer if needed or raise the temp if the skin needs to crisp.
+- Roast at 220degC for about 10mins then turn down to 180degC for a further 45min. Longer if needed or raise the temp again if the skin needs to crisp further.
 
-- Take everything out of the pan (keep warm in the off oven) and squeeze the lemon in there. Add flour and water and cook to make [mums gravy]({{< ref "recipe/side/Mums Gravy" >}}).
+> Baste the chicken halfway through the cook and again towards the end.
+
+- Take the chicken out of the pan and put on a plate (keep warm in the off oven). Add flour and water and cook to make [mums gravy]({{< ref "recipe/side/Mums Gravy" >}}).
+
+> As the chicken rests it will release more juice which goes straight into the gravy pan. 
+
+- Finish the gravy off with salt/pepper/sugar to balance
+
+> Optional: Squeeze an ammount of juice from the roasted lemon into the gravy to your liking.
 
 {{< gallery >}}
   <img src="gallery/gravy1.jpg" class="grid-w33" />
@@ -52,12 +62,9 @@ recipes: ["All"]
 
 {{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 Next time:<br>
-- one lemon was too much. Do half (maybe not even put it in the pan face down and probably not squeeze the cooked lemon juice in the pan for the gravy)
-- potatos cooked seprately so they're crisp
+- Make a note of how the lemon is used
 - splay the chicken skin as much as you can so it gets exposed and crisp all over
-- keep the chicke on its own plate and drain the juices into the gravy (after its sat for abit)
-- add salt/pepper/sugar to the gravy to balance
-- maybe less butter (same ammout of herb)
-- use heat of the oven to soften the butter. Pop it in the fridge if it goes too far
-- 1 tblsp of flour, too much and it gets gluggy. Med heat for the gravy high was too much. Scrape the cast iron plan with the spoon to get all the goodness off and in the gravy
+- start off with 1 tblsp of flour, too much and it gets gluggy. Med heat for the gravy high was too much. Scrape the cast iron plan with the spoon to get all the goodness off and in the gravy
+- butter reduced from 1 to 1/2 tblsp. Too much butter means more flour to make the gravy. 
+- consider microplaning some garlic to the butter
 {{< /alert >}}
