@@ -14,7 +14,6 @@ recipes: ["All"]
 | [Slow Cooked Pork]({{< ref "recipe/base/Pulled Pork" >}}) | |
 | Texas Slaw (altered) |  |
 | Pickled Red Onions |  |
-| Cabbage |  |
 | Baby Spinach |  |
 | Chipotle Sauce |  |
 | Tortillas |  |
@@ -22,10 +21,11 @@ recipes: ["All"]
 
 ### [Texas Slaw]({{< ref "recipe/side/Texas Slaw" >}})
 
-This is usually a side dish on its own but since there's pickled red onions and cabbage in the taco we will leave them out of the slaw
+This is usually a side dish on its own but since there's pickled red onions in the taco we will leave them out of the slaw
 
 | Ingredient  | Amount |
 | ----- | ----- | 
+| Cabbage | to bulk |
 | Green Apple | 1/2 |
 | Carrot (grated) | 2 |
 | Corriander | 1/4 -> 1/2 bunch |
