@@ -26,7 +26,7 @@ date: 2022-07-24
 
 - Cut up the onion into petals and potato into large chunks. Put them into a baking dish and add the stock, coconut milk, cinnamon stick, star anise and half of a can of the paste and mix all together. Press the lamb shanks in displacing the potato and onion so they're covered as much as the liquid will allow; coat with sauce and cover with a lid or foil.
 
->Put the tin of coconut milk under the tap to get it all out. The extra water will give more time to cook uncovered later.
+>Put the tin of coconut milk under the tap to get it all out; the extra water will give more time to cook uncovered later. Add enough to fill up the dish. 
 
 {{< gallery >}}
   <img src="gallery/a1.jpg" class="grid-w33" />
