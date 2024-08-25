@@ -6,4 +6,4 @@ heros: ["Chicken"]
 recipes: ["All"]
 ---
 
-Butter chicken, lentils and mango chutney salad
+Quick Curry for a weeknight meal. Not yet perfected - details to be added when it's worthy.
