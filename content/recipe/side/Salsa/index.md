@@ -4,10 +4,11 @@ draft: true
 recipes: ["All"]
 ---
 
-## Fresh Salsa
+## Pico de Gallo (Fresh Salsa)
 
-Tomatoes
-Red onion
-Chili
-Lime Juice
-Corriander
+Tomatoes<br>
+Red onion<br>
+Chili<br>
+Lime Juice<br>
+Corriander<br>
+Salt<br>
