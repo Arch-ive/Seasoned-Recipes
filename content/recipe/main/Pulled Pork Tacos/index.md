@@ -34,12 +34,12 @@ This is usually a side dish on its own but since there's pickled red onions in t
 
 | Ingredient  | Amount |
 | ----- | ----- | 
+| Orange | Juice of 1 |
 | Djon Mustard | 1 Heaped Teaspoon |
+| Yoghurt | 1 Heaped Tablespoon |
+| Ground Cumin | Half Teaspoon |
 | Olive Oil | Splash |
 | Mayple Syrup | To Balance |
-| Ground Cumin | Half Teaspoon |
-| Orange | Juice of 1 |
-| Yoghurt | 1 Heaped Tablespoon |
 | Salt & Pepper | To Taste |
 
 > Maple syrup for when it tastes too sour or bitter at the end, depends on the orange and how much mustard
