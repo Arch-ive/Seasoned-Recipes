@@ -4,7 +4,7 @@ weight = 1
 title = "Seasoned Recipes"
 
  [params]
-   displayName = "EN"
+   displayName = "English"
    isoCode = "en"
    rtl = false
    dateFormat = "2 January 2006"
@@ -13,11 +13,11 @@ title = "Seasoned Recipes"
    # description = "Food for thought"
    # copyright = "text"
 
- [author]
+[params.author]
    name = "Seasoned Recipes"
    image = "author/authpic.png"
    headline = "Meal planning will never be the same"
-   bio = "BioBioBioBio"
+   bio = "Personal Online Recipe Book Maintainer"
    links = [
       { email = "mailto:PlaceHolder@address.com" },
 #     { link = "https://link-to-some-website.com/" },
