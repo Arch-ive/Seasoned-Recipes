@@ -6,8 +6,18 @@ heros: ["Chicken,Pork,Vege"]
 recipes: ["All"]
 ---
 
-Perri perri chicken pizza
+## Perri perri chicken pizza
+- Perri chicken
+- Perrinase+perrisauce
+- Red onion
+- Mushroom
+- Capcicum
+- Snow Pea
+- Tomato (sliced to add to the base)
+- Pasata 
 
-Ham and Pinapple
+## Ham and Pinapple
 
-Pizza dough 
+## Margarita
+
+Placeholder ~ Pizza dough recipe ~
