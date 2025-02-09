@@ -8,6 +8,7 @@ recipes: ["All"]
 
 Marinade the pork and pineapple wedges and chuck em on the BBQ. Add some other extras and wa-la
 
+### Pork & Pineapple
 | Ingredient  | Amount |
 | ----- | ---- |
 | Pork Scotch Fillet | 1 |
@@ -15,12 +16,8 @@ Marinade the pork and pineapple wedges and chuck em on the BBQ. Add some other e
 | Smoked Paprika | 1 tablespoon |
 | Ground Cumin | 1 teaspoon |
 | Olive Oil | To coat |
-| Red Cabbage | 1/4 |
-| Spinach |  |
-| Tortillas |  |
 
 ### Corn Salsa
-
 | Ingredient  | Amount |
 | ----- | ---- |
 | Corn | 1 |
@@ -32,16 +29,24 @@ Marinade the pork and pineapple wedges and chuck em on the BBQ. Add some other e
 ### Sping Onion Sauce
 | Ingredient  | Amount |
 | ----- | ---- |
-| spring onions | 3-4 |
+| Spring onions | 3-4 |
 | Corriander Roots | 3-4 |
+| Burnt Jalepeno | 1/2 |
 | Cashew nuts | 20g |
 | Apple cider vinegar | Dash |
+
+### Tortilla
+| Ingredient  | Amount |
+| ----- | ---- |
+| Tortillas | Soft & Toasted |
+| Red Cabbage | ~1/4 |
+| Spinach |  |
 
 # Method 
 Soak the cashews beforehand
 then 
 BBQ the spring onions
-Add them together with corriander stalks (washed), cashews and apple cider vinegar and blend.
+Add them together with corriander stalks (washed), cashews, jalepeno and apple cider vinegar and blend.
 
 Fine dice the 1/4 red onion and place in a bowl with olive oil and some corriander leaf. Corn and capcicum goes here once cooked.
 
