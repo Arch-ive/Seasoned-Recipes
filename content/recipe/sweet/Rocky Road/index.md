@@ -1,16 +1,16 @@
 ---
 title: "Rocky Road"
 date: 2024-03-11
-draft: false
+draft: true
 recipes: ["All"]
 ---
 
 | Ingredient  | Amount |
 | ----- | ---- |
-| Chocolate |  |
-| Marshmellows |  |
-| Red Rasberries |  |
-| Arnott's Scotch Finger Biscuits |  |
+| Chocolate | 2-3 blocks |
+| Marshmellows | Jumbo Pack (520g) |
+| Red Rasberries | 1 bag |
+| Arnott's Scotch Finger Biscuits | ~6 biccies |
 | Salted Caramel & Peanut |  |
 
 ## Method
