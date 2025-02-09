@@ -5,7 +5,7 @@ heros: ["Beef"]
 recipes: ["All"]
 ---
 
-This beef taco recipe is on point as it's been adopted from a [MasterChef](https://10play.com.au/junior-masterchef-australia/recipes/chipotle-scotch-fillet-tacos-burnt-jalapeno-and-avocado-cream-roasted-corn-salsa/r200911vkufy) challenge set by Winner and Judge Andy who loves is mexican food. Yes there's alot of seasoning and tomatillos are hard to come by but get them in there, it tastes great.
+This beef taco recipe has been adopted from a [MasterChef](https://10play.com.au/junior-masterchef-australia/recipes/chipotle-scotch-fillet-tacos-burnt-jalapeno-and-avocado-cream-roasted-corn-salsa/r200911vkufy) challenge set by Judge and Winner Andy who loves his mexican food; so this taco is on point. <br>Yes there's alot of seasoning and tomatillos are hard to come by but get them in there, it's worth it.
 
 {{< button href="#method" target="_self" >}}
 Skip to Method
@@ -65,11 +65,11 @@ Skip to Method
 
 Turn on the BBQ on high and put the Jalapeno on.
 
-Mix the steak marinade up and coat the steak. Leave it on its own dedicated plate as we're going to toss the cooked cut steak in the remaining marinade.
+Mix the steak marinade up and coat the steak. Leave it on its own dedicated plate as we're going to toss the cooked cut steak in the remaining marinade later.
 
-Prepare the corriander roots, peel and deseed the avocado, peel the garlic, get a few tomatillos + brine & zest and juice the lime all going into the large nutrabullet canister. Crack in some Salt and Pepper to taste. Leave aside for when the 1/2 burned Jalapeno once it's cooled.
+Prepare the corriander roots, peel and deseed the avocado, peel the garlic, get a few tomatillos + brine & zest and juice the lime for it all to go into the large nutrabullet canister. Season with some Salt and Pepper to taste. Leave it aside ready for the 1/2 burned Jalapeno once it's cooled.
 
-Strip and put the corn on the BBQ along with the capcicum and turn down the BBQ to medium high heat; turn the veg occasionally. We want some char on these.
+Put the corn on the BBQ along with the capcicum and turn it down to medium high heat; turn the veg occasionally. We want some char on these.
 
 Fine dice the red onion and add salt, ginger, red chili, olive oil and the juice from the 1/2 lime. Set aside in a bowl for the corn and capcicum later.
 
