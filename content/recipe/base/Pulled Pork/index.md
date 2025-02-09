@@ -8,7 +8,7 @@ recipes: ["All"]
 
 | Ingredient |  |
 | ----- | ----- |
-| Pork Belly | 1.5kg  |
+| Pork Shoulder | 1.5kg  |
 | Salt | x |
 | Pepper |  x |
 | Olive Oil | x |
