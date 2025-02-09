@@ -13,9 +13,9 @@ recipes: ["All"]
 
 - Boil potatoes until they're cooked (if you can squish one on the side of the pot they're done)
 
-- Drain and then let them sit to steam (less moisture the better) and then pass thrm though the potato ricer. If they're still steamy let them sit.
+- Drain and then let them sit to steam (less moisture the better) and then pass them though the potato ricer. If they're still steamy let them sit.
 
-- Dust the riced potatoes with flour and fold and squish. Keep going until its not sticky to the touch
+- Season the riced potatoes with salt and dust with flour and fold and squish. Keep going until its not sticky to the touch.
 
 >Be careful not to overwork the dough
 
