@@ -27,7 +27,9 @@ recipes: ["All"]
   <img src="gallery/veg1.jpg" class="grid-w33" />
 {{< /gallery >}}
 
-- Slash the chicken to the bone in a few areas, get the tyme/butter under the skin. Massage leftover all over the chicken and place in the cast iron pan along with a few sprigs of rosemary. Salt, pepper and microplane some lemon zest over the chicken and place the lemon face down in the pan.
+- Make a compound butter with tyme and lemon zest
+
+- Slash the chicken to the bone in a few areas, get the compound butter under the skin. Massage leftover all over the chicken and place in the cast iron pan along with a few sprigs of rosemary. Salt, pepper and microplane some lemon zest over the chicken and place the lemon face down in the pan.
 
 > Use heat of the oven to soften the butter. Pop it in the fridge if it goes too far
 
