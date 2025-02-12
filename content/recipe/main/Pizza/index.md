@@ -20,4 +20,4 @@ recipes: ["All"]
 
 ## Margarita
 
-Placeholder ~ Pizza dough recipe ~
+## [Pizza Dough]({{< ref "recipe/base/pizza dough" >}})  
