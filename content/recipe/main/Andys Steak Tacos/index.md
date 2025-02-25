@@ -31,10 +31,10 @@ Skip to Method
 | ----- | ---- |
 | Corn | 1 cob |
 | Capcicum Yellow | 1/2 <-> 3/4 |
-| Red Chili | 1/2 |
 | Red Onion | 1/4 |
 | Ginger | 1 tsp |
 | Lime | 1/2 |
+| Coriander | 1/4 bunch (leaf) |
 | Salt | To taste |
 | Olive Oil | A dash to bind |
 
@@ -59,7 +59,6 @@ Skip to Method
 | Tasty Cheese | 
 | Red Cabbage | 
 | Spinach |
-| Corriander | 
 
 ## Method
 
@@ -71,7 +70,7 @@ Prepare the corriander roots, peel and deseed the avocado, peel the garlic, get 
 
 Put the corn on the BBQ along with the capcicum and turn it down to medium high heat; turn the veg occasionally. We want some char on these.
 
-Fine dice the red onion and add salt, ginger, red chili, olive oil and the juice from the 1/2 lime. Set aside in a bowl for the corn and capcicum later.
+Fine dice the red onion and add salt, ginger, coriander, olive oil and the juice from the 1/2 lime. Set aside in a bowl for the corn and capcicum later.
 
 When the corn is about half way done. Put the steak on the BBQ turning once. Medium rare.
 
