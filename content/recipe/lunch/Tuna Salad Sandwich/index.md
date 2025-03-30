@@ -13,11 +13,12 @@ Easy Sanga for lunch
 | Pickle* | 1-2 |
 | Celery *| ~1 inch |
 | Dill* |  |
+| Parsley* |  |
 | Mayo |  |
-| Mustard |  |
+| Australian Mustard |  |
 
 ## Method
 
 Drain about 70% of the oil out of the can of tuna. Pop it in a small bowl to mix with the rest of the ingredients. Quite a bit of mayo and a small addition of mustard.
 
->*Can do pickle or celery. Dill or parsley.*
+>*Can do pickle or celery. Dill or parsley.* *
