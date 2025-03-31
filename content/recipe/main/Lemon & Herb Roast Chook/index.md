@@ -9,7 +9,7 @@ recipes: ["All"]
 | ----- | ---- |
 | Chicken | 2 Merrylands |
 | Potatoes | 2 |
-| Carrots | 2 |
+| Carrots | 3 |
 | Beetroot | 1 |
 | Lemon | 1/2 |
 | Rosemary | 2-3 sprigs |
@@ -17,11 +17,19 @@ recipes: ["All"]
 | Butter | 1/2 tblsp |
 | Salt | To taste |
 | Pepper | To taste |
+| Flour | ~2-3 tsps |
+| Honey | to balance |
 | Olive Oil | To coat |
+
+{{< gallery >}}
+  <img src="gallery/ingredients.jpg" class="grid-w33" />
+{{< /gallery >}}
+
+</br>
 
 # Method
 
-- Cut up the veg. Salt + olive oil. Toss together with some chopped rosemary. Put them on their own roasting tray.
+- Cut up the veg fairly chunky (we'll be roasting them for about an hour). Season with salt, pepper and olive oil. Toss together with the rosemary. Put the veg on their own roasting tray. Preheat the oven to 220degC
 
 {{< gallery >}}
   <img src="gallery/veg1.jpg" class="grid-w33" />
@@ -29,30 +37,33 @@ recipes: ["All"]
 
 - Make a compound butter with tyme and lemon zest
 
-- Slash the chicken to the bone in a few areas, get the compound butter under the skin. Massage leftover all over the chicken and place in the cast iron pan along with a few sprigs of rosemary. Salt, pepper and microplane some lemon zest over the chicken and place the lemon face down in the pan.
+- Gently separate the skin from the chicken get the compound butter under the skin. Massage the butter though the skin to get an even distribution, get a bit of butter on the outside of the skin aswell. Salt the chicken skin and then place the merrylands in a cast iron pan along with the 1/2 lemon face side down.
 
 > Use heat of the oven to soften the butter. Pop it in the fridge if it goes too far
 
 {{< gallery >}}
   <img src="gallery/butter1.jpg" class="grid-w33" />
   <img src="gallery/butter2.jpg" class="grid-w33" />
-  <img src="gallery/butter3.jpg" class="grid-w33" />
   <img src="gallery/chook1.jpg" class="grid-w33" />
-  <img src="gallery/chook2.jpg" class="grid-w33" />
-  <img src="gallery/chook3.jpg" class="grid-w33" />
 {{< /gallery >}}
 
-- Roast at 220degC for about 10mins then turn down to 180degC for a further 45min. Longer if needed or raise the temp again if the skin needs to crisp further.
+- Put the veg in first to get a head start on them
 
-> Baste the chicken halfway through the cook and again towards the end.
+- After the veg has had 10mins, put the chicken in and roast for about 10mins at 220degC then turn down to 180degC to cook for a further 40-45min. Longer if the skin needs more time to brown.
 
-- Take the chicken out of the pan and put on a plate (keep warm in the off oven). Add flour and water and cook to make [mums gravy]({{< ref "recipe/side/Mums Gravy" >}}).
+> Baste the chicken at the temp change at 10mins and again at 25mins and a final time at 35mins in. This will get the skin nice and crispy.
+
+- After time, take the chicken out of the pan and put on a plate, let the heat out of the oven and rest the chicken (and the veg) in the warm oven. 
+
+{{< gallery >}}
+  <img src="gallery/chook2.jpg" class="grid-w33" />
+{{< /gallery >}}
+
+- Add flour to the pan drippings and water and cook (on low/med heat) to make [mums gravy]({{< ref "recipe/side/Mums Gravy" >}}).
 
 > As the chicken rests it will release more juice which goes straight into the gravy pan. 
 
-- Finish the gravy off with salt/pepper/sugar to balance
-
-> Optional: Squeeze an ammount of juice from the roasted lemon into the gravy to your liking.
+- Season the gravy with salt/pepper/honey to balance and also break up some of the roasted rosemary in there to round it out (it's a lemon & herb gravy)
 
 {{< gallery >}}
   <img src="gallery/gravy1.jpg" class="grid-w33" />
@@ -62,11 +73,15 @@ recipes: ["All"]
 
 - Enjoy
 
+{{< gallery >}}
+  <img src="gallery/fin1.jpg" class="grid-w33" />
+  <img src="gallery/fin2.jpg" class="grid-w33" />
+{{< /gallery >}}
+
+</br>
+
 {{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
 Next time:<br>
-- Make a note of how the lemon is used
-- splay the chicken skin as much as you can so it gets exposed and crisp all over
-- start off with 1 tblsp of flour, too much and it gets gluggy. Med heat for the gravy high was too much. Scrape the cast iron plan with the spoon to get all the goodness off and in the gravy
-- butter reduced from 1 to 1/2 tblsp. Too much butter means more flour to make the gravy. 
-- consider microplaning some garlic to the butter
+- 2 large potatoes felt like too much, get one large one small one. Used dirty potatoes - try a different one next time. Up the carrots from 2 to 3.
+- Separated most of the drippings to start off the 1tbsp of flour. Still had to add more in as I went. Next time add enough flour into all the drippings so all (or atleast most?) of the juices are absorbed (there was butter loose in the pan not combining with the gravy). Cook off the flour and keep adding water (quite a bit) to smooth it out.
 {{< /alert >}}
