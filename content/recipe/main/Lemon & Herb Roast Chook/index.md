@@ -84,7 +84,12 @@ recipes: ["All"]
 </br>
 
 {{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-Next time:<br>
-- When making the gravy try add as much flour as you need to absorb ~85% the juices and cook on hob 3 [or 4 taking it on and off as you need] for ~5mins. You want to see the flour "bubble".<br>
-You'll use about a whole milk jug of warm water to get this all together. It will thicken as it cools so maybe see if you can make it "thin" so as it does cool it doesn't become a gel.
+Next time: <br>
+- Don't let all the heat out of the oven while making the gravy dont risk the veg getting cold.<br>
+- Maybe cook everyting at 170degC (last time the chicken was a little dry but skin was good as we pushed it for 50min cook time) or let the chicken rest outside to collect juce and then back into the warm oven to rest<br>
+- When making the gravy skim off the butter and hold to the side. Add in the 2-3 teaspoons of flour and cook off on hob 4 [taking it on and off as you need] for ~5mins. You want to see the flour "bubble".<br>
+- You'll use about a whole milk jug of warm water to get this all together. It will thicken as it cools so maybe see if you can make it "thin" so as it does cool it doesn't become a gel. Using less flour should help - testing 1.5 teaspoons of flour per person for gravy.<br>
+- Also be carefull adding water to the pan after cooking the flour. Having it on hob 4 last time vapourised the water (maybe it wasn't hot enough?) and caused some commotion.
+- Taste as you go - add butter after you've cooked the flour and then added the water almost as a seasoning (mouthfeel rather than flavour?)<br>
+- Take photos to update the recipe<br>
 {{< /alert >}}
