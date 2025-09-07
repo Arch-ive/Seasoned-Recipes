@@ -39,3 +39,8 @@ Butterscotch Sauce:
 Melt together the cream, butter and brown sugar. Add salt at the end till your liking.
 
 Serve with Vanilla Ice Cream and Butterscotch Sauce
+
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+Note:<br>
+- Do a double batch of the Butterscotch recipe so you've got enough drown your pud
+{{< /alert >}}
