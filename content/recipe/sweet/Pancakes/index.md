@@ -5,4 +5,12 @@ draft: true
 recipes: ["All"]
 ---
 
-# belongs in /sweet?
+| Ingredient  | Amount |
+| ----- | ---- |
+| Flour | x Cups |
+| Milk | x Cups |
+| Olive Oil | x mls |
+
+## Method
+
+Mix the batter and cook in a frypan. Butter inbetween the layers to melt and top with jam / maple syrup.
