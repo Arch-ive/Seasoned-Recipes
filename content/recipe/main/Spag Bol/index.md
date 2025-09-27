@@ -11,8 +11,8 @@ recipes: ["All"]
 | Garlic | 3 Cloves |
 | Heinz Tomato Soup | 2 Cans (820g + 420g) |
 | Tomato Paste | 6 Tablespoons |
-| Water | 1.5 cup |
-| Masterfoods Herbs |
+| Water | ~1.5 cup |
+| Dry Italian Herbs |
 | Salt |
 | Pepper |
 
@@ -53,7 +53,7 @@ Add the garlic, soup, tomato paste and herbs. Use water to get all the soup in t
 {{< /gallery >}}
 
 <br>
-Turn the heat down and simmer for around 30mins. Season with salt and pepper late in the cook. If you do it too early it'll cook down and be overpowering.
+Turn the heat down (low - hob 2) and simmer for around 30mins. Season with salt and pepper late in the cook. If you do it too early it'll cook down and be overpowering.
 <br><br>
 {{< gallery >}}
   <img src="gallery/final1.jpg" class="grid-w33" />
