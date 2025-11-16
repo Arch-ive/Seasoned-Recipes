@@ -1,6 +1,6 @@
 ---
 title: "Cacio e Pepe"
-draft: false
+draft: true
 heros: ["Pasta"]
 recipes: ["All"]
 ---
@@ -41,4 +41,13 @@ It's best to make this with [Fresh Pasta]({{< ref "recipe/base/fresh pasta" >}})
 
 >Add enough pasta water where you've got a light pool in the pan; the aim is to use the residual heat of the pan to have the pasta cooked through & enough pasta water encorporate the cheese to finish the dish at the same time
 >
->Pre-heat the serving bowls so the sauce doesn't seize
+>Pre-heat the serving bowls so the sauce doesn't seize up giving you more time to enjoy all you hard work
+
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+Draft:<br>
+Last time the cheese clumped in the pan beause it was too hot. You need to keep the temperature between 63 - 74degC so the cheese melts but doesn't split<br><br>
+You have manage the heat in the pasta, pasta water and pan.
+- Take the pan off the heat once the butter has melted. <br>
+- Decant the pasta water you want to use and let it stand for abit before you use it.<br>
+- Let the pasta steam off in a collender before it goes in the pan
+{{< /alert >}}
