@@ -10,8 +10,9 @@ recipes: ["All"]
 | Ingredient  | Amount |
 | ----- | ---- |
 | Steak | 2 |
+| Garlic | 1 clove |
 | Oyster Sauce | to coat |
-| Salt | to taste |
+| Olive Oil | to coat |
 | Pepper | to taste |
 
 ### Salad
@@ -27,16 +28,21 @@ recipes: ["All"]
 ### Salad Dressing
 | Ingredient  | Amount |
 | ----- | ---- |
-| Lime | 1 |
-| Mayple | ~2 tblsp |
+| Lime | 2 |
+| Mayple  Syrup | ~4 tblsp |
 | Fish Sauce | to balance |
 | Sesame Oil | 1 tspn |
 | Garlic | 1 clove |
 | Chili | 1/4 |
 
 ## Method
-- Marinade the steaks and set aside
-- Cut all the ingredients for the salad and put into a large bowl and then pre-heat the BBQ 
+- Microplane the garlic. Mix it together with the other marinade ingredients on a plate and coat the steaks. Set aside
+- Cut all the ingredients for the salad making sure to keep in mind how long the juliend pieces are so it eats well. Put it all into a large bowl and then pre-heat the BBQ 
 - Making the sauce you want to start with sweet and sour from the lime and mayple then add fish sauce until it's balanced. Add the diced garlic and chili and finish with the sesame oil.
 - Cook the steak and while it's resting assemble bowls of salad. Cut the steaks into thin strips and place ontop of dressed salad.
 - Enjoy
+
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+Draft:<br>
+Pay attention to how much mayple syrup you add to the salad dressing and edit here accordingly
+{{< /alert >}}
