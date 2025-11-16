@@ -26,7 +26,7 @@ seasons: ["Summer Saviours"]
 | Ingredient  | Amount |
 | ----- | --- |
 | Garlic | 1-2 cloves |
-| Lime | 1 |
+| Lime | 2 |
 | Diced Red Chili | 1 |
 | Fish Sauce | To ballance |
 | Mayple Syrup | To ballance |
@@ -41,6 +41,6 @@ seasons: ["Summer Saviours"]
 
 - Steep the noodles in boiling water and leave for a few minutes to come back to life. Drain them well and cut them up into the bowl with the rest of the preparied ingredients and mix to combine.
 
-- For the dressing - Juice a lime into a small mixing jug and keep adding fish sauce so you've got both a sour and savoury profile. Top up with as much mayple syrup as nessecary to balance it all out. Then add the microplaned garlic, diced chili, dash of sesame oil and mini whisk.
+- For the dressing - Juice two limes into a small mixing jug and keep adding mayple syrup until you have a balanced sweet and sour profile. Top up with as much fish as nessecary to round it all out. Then add the microplaned garlic, diced chili, dash of sesame oil and mini whisk.
 
 - In a bowl, add spinach leaves and heap the salad ontop. Pour some of the dressing over the salad and mix. Add as many peanuts as you please on top.
