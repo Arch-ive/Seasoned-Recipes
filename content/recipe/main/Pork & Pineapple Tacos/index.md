@@ -6,7 +6,7 @@ heros: ["Pork"]
 recipes: ["All"]
 ---
 
-Marinade the pork and pineapple wedges and chuck em on the BBQ. Add some other extras and wa-la
+This recipe makes great use of the BBQ to deliver flavour. Great mid week meal.
 
 ### Pork & Pineapple
 | Ingredient  | Amount |
@@ -32,8 +32,8 @@ Marinade the pork and pineapple wedges and chuck em on the BBQ. Add some other e
 | Spring onions | 3-4 |
 | Corriander Roots | 3-4 |
 | Burnt Jalepeno | 1/2 |
-| Cashew nuts | 20g |
-| Apple cider vinegar | Dash |
+| Cashew nuts | ~80g |
+| Apple cider vinegar | To taste |
 
 ### Tortilla
 | Ingredient  | Amount |
@@ -43,14 +43,19 @@ Marinade the pork and pineapple wedges and chuck em on the BBQ. Add some other e
 | Spinach |  |
 
 # Method 
-Soak the cashews beforehand
-then 
-BBQ the spring onions
-Add them together with corriander stalks (washed), cashews, jalepeno and apple cider vinegar and blend.
+In the afternoon, get a fistful of cashews and soak in water so they're ready to blend later.<br>
+ 
+Start by putting the spring onions and the jalepeno on the BBQ. Once they're good and charred set them aside to cool. <br>
 
-Fine dice the 1/4 red onion and place in a bowl with olive oil and some corriander leaf. Corn and capcicum goes here once cooked.
+Cut and wash the corriander roots. Half and deseed the jalepeno freezing one half for later. Cut up the spring onions. Add them all in with the (drained) cashews to blend - adding in the apple cider vinegar to taste and water if it's too thick.<br>
 
-Prep the pineapple cutting them into long wedges
-Coat the pineapple and pork fillet in the spices and salt
+Fine dice the 1/4 red onion and place in a bowl with some corriander leaf. Corn and capcicum goes here once cooked - tossed with olive oil to finish. Also shave the cabbage while you're at it.<br>
 
-Put the corn on the BBQ first and then the pork fillet. Aim to have them both done at the same time so the corn is warm to be served.
+Prep the pineapple cutting them into long wedges. Aim for 2 pieces per taco.<br>
+Coat the pineapple and pork fillet in the spices and salt.<br>
+Cut the capcicum into strips so there's good contact with the BBQ.<br>
+
+Put the corn and capcicum on the BBQ first and then the pork fillet. Aim to have them both done at the same time so the corn is warm to be served. Afterwards turn the BBQ down to toast the tortillas later. <br>
+
+Let the pork rest while you make the corn/capcicum salsa. After the pork is sliced into strips toast the tortillas and enjoy. 
+
