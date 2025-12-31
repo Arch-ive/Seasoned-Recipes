@@ -30,14 +30,16 @@ Spices & Tomatoes & Cashewnut paste
 
 ## Method
 
-- Saute the cardamom and mace in butter & oil
+- First - start in the afternoon by soaking the cashews so they can be made into a paste later
 
-- Add the onion, tomato and chili and cook on medium to break them down. Cool the mix and blend.
+- Saute the cardamom and mace in butter & oil in the large stainless steel pot for a few minutes
 
-- Add the 120g of butter to the pan and add the blended mix back in and season with salt. Add fenugreek and cashew paste. Cook for a futher 15mins
+- Add the onion, tomato, galric, ginger and chili and cook on medium to break them down. Blend in the pot.
 
-> Soak the cashew nuts for a few hours and blend for a smooth nut paste
+- Add the 120g of butter to the pot and season with salt. Add fenugreek and cashew paste. Cook for a further 15mins
 
-- Add garam masala and honey and stir well to combine. Simmer for 15min and come back and taste to balance it (more honey, salt or sugar). Simmer for another 30mins
+- Add garam masala and honey and stir well to combine. Simmer for 15min and come back and taste to balance it (more honey/salt). Simmer for another 30mins
+
+>Keep going back to taste. You don't want to put too much honey in there and upset the balance.
 
 - Add cream and heat though for 3-5mins and you're ready
